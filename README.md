@@ -18,8 +18,14 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-07-27 13:36 UTC._
+_Last checked: 2026-07-27 14:54 UTC._
 
+- **[Show HN: Descript wanted $24/mo, I built an open-source alternative in a weekend](https://github.com/wassgha/rescript)** — 22 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49065779) (2026-07-27)
+- **[Show HN: OpenSlides – Open-source desktop app for animated code presentations](https://github.com/codewiththiha/OpenSlides)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49055586) (2026-07-26)
+- **[Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS)** — 18 points, 20 comments on [Show HN](https://news.ycombinator.com/item?id=49061015) (2026-07-26)
+- **[Show HN: Managing on-premise servers without Kubernetes](https://github.com/ricardoborges/Nautilus)** — 18 points, 11 comments on [Show HN](https://news.ycombinator.com/item?id=49057985) (2026-07-26)
+- **[Show HN: Rudoc – a 4.5MB Rust document converter](https://github.com/asong56/rudoc)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49052181) (2026-07-25)
+- **[Show HN: Twigg – open-source big-tech-like version control and software forge](https://github.com/twigg-vc/monorepo)** — 17 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49040345) (2026-07-24)
 - **[Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)** — 132 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49059398) (2026-07-26)
 - **[Show HN: Distill and serve models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer)** — 43 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=49063454) (2026-07-26)
 - **[Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window](https://github.com/alokdhir/spinwin)** — 37 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49049638) (2026-07-25)
