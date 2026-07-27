@@ -1,18 +1,32 @@
-# Awesome Hidden Gems [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Hidden Gems [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Auto-update](https://github.com/USERNAME/awesome-hidden-gems/actions/workflows/auto-update.yml/badge.svg)](https://github.com/USERNAME/awesome-hidden-gems/actions/workflows/auto-update.yml)
 
-> A curated list of excellent open-source tools that deserve way more attention than they get.
+> A self-updating feed of great open-source projects that the community is genuinely excited about — no manual curation required.
 
-GitHub trending pages and "best of" lists tend to surface the same handful of mega-popular projects over and over. This list is different: it's a curation of **genuinely useful, actively maintained tools that are still flying under the radar** — no matter the star count, the goal is that every single entry is something a contributor personally uses and recommends.
-
-If a tool blows up and becomes mainstream, that's a win — it stays on the list (with credit for having been spotted early), but new entries should always favor the under-appreciated.
+A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day, picks out the open-source projects people actually upvoted and discussed, and commits new finds straight into this README automatically. Nobody has to lift a finger for the list to stay fresh — that's the whole point. Star the repo to keep the feed on your radar.
 
 ## Contents
 
+- [Latest picks (auto-updated)](#latest-picks-auto-updated)
 - [CLI & Terminal](#cli--terminal)
 - [Self-Hosting & Infrastructure](#self-hosting--infrastructure)
 - [Data & Backend](#data--backend)
 - [Developer Experience & Productivity](#developer-experience--productivity)
 - [AI & Automation](#ai--automation)
+
+## Latest picks (auto-updated)
+
+_Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
+
+<!-- AUTO-FEED:START -->
+_Last checked: 2026-07-27 13:36 UTC._
+
+- **[Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)** — 132 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49059398) (2026-07-26)
+- **[Show HN: Distill and serve models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer)** — 43 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=49063454) (2026-07-26)
+- **[Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window](https://github.com/alokdhir/spinwin)** — 37 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49049638) (2026-07-25)
+- **[Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools)** — 32 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49041546) (2026-07-24)
+- **[Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth)** — 27 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49050824) (2026-07-25)
+- **[Show HN: Cuts Long Horizon Inference Costs by 50% via external KV Cache Offload](https://github.com/openlake-project/openlake)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49057767) (2026-07-26)
+<!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
 
@@ -47,7 +61,7 @@ If a tool blows up and becomes mainstream, that's a win — it stays on the list
 
 ## Contributing
 
-Contributions are very welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first — the short version is: only submit tools you've personally used, explain *why* they deserve more attention, and keep the list format consistent.
+Contributions are very welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first — the short version is: only submit tools you've personally used, explain _why_ they deserve more attention, and keep the list format consistent.
 
 Have a tool in mind but don't want to open a PR? [Open an issue](../../issues/new/choose) using the "Suggest a tool" template instead.
 
