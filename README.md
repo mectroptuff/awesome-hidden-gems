@@ -1,4 +1,4 @@
-# Awesome Hidden Gems [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Auto-update](https://github.com/USERNAME/awesome-hidden-gems/actions/workflows/auto-update.yml/badge.svg)](https://github.com/USERNAME/awesome-hidden-gems/actions/workflows/auto-update.yml)
+# Awesome Hidden Gems [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Auto-update](https://github.com/mectroptuff/awesome-hidden-gems/actions/workflows/auto-update.yml/badge.svg)](https://github.com/mectroptuff/awesome-hidden-gems/actions/workflows/auto-update.yml)
 
 > A self-updating feed of great open-source projects that the community is genuinely excited about — no manual curation required.
 
