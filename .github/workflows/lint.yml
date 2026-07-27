@@ -22,5 +22,5 @@ jobs:
       - name: Check for dead links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --no-progress README.md
+          args: --no-progress --config lychee.toml README.md
           fail: true

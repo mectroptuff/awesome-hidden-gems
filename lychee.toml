@@ -1,0 +1,12 @@
+# Hacker News aggressively rate-limits automated link checkers, causing
+# false-positive failures on freshly auto-added entries. We trust HN links
+# added by our own bot (scripts/update_feed.py already validated the GitHub
+# repo link behind them), so we skip re-checking news.ycombinator.com here.
+exclude = [
+  "^https://news\\.ycombinator\\.com",
+]
+
+# Be gentler to avoid tripping other sites' rate limits too.
+max_concurrency = 4
+retry_wait_time = 5
+max_retries = 3

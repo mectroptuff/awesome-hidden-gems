@@ -69,7 +69,7 @@ _Last checked: 2026-07-27 14:54 UTC._
 
 Contributions are very welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first — the short version is: only submit tools you've personally used, explain _why_ they deserve more attention, and keep the list format consistent.
 
-Have a tool in mind but don't want to open a PR? [Open an issue](../../issues/new/choose) using the "Suggest a tool" template instead.
+Have a tool in mind but don't want to open a PR? [Open an issue](https://github.com/mectroptuff/awesome-hidden-gems/issues/new/choose) using the "Suggest a tool" template instead.
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
