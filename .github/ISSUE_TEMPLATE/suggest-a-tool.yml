@@ -1,0 +1,42 @@
+name: Suggest a tool
+description: Propose a hidden-gem open-source tool for the list
+title: "[Suggestion]: "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: repo-url
+    attributes:
+      label: Repository URL
+      description: Link to the GitHub (or other forge) repository
+      placeholder: https://github.com/org/repo
+    validations:
+      required: true
+
+  - type: input
+    id: category
+    attributes:
+      label: Suggested category
+      description: Which section of the README should this go under? Propose a new one if needed.
+      placeholder: e.g. CLI & Terminal
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it a hidden gem?
+      description: What does it do, and why do you think it deserves more attention?
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: I have personally used this tool
+          required: true
+        - label: It is actively maintained (recent commits/releases)
+          required: true
+        - label: It is not already on the list
+          required: true
