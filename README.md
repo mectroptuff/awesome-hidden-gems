@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-07-27 14:54 UTC._
+_Last checked: 2026-07-28 09:30 UTC._
 
+- **[Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted](https://github.com/letsseal/letsseal)** — 86 points, 30 comments on [Show HN](https://news.ycombinator.com/item?id=49071365) (2026-07-27)
+- **[Show HN: Yap – OSS on-device voice dictation for macOS with no model to download](https://github.com/FrigadeHQ/yap)** — 68 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49073834) (2026-07-27)
+- **[Show HN: A browser-based video editor that renders videos directly with FFmpeg](https://github.com/thiagoalbrecht/weave)** — 17 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49058396) (2026-07-26)
 - **[Show HN: Descript wanted $24/mo, I built an open-source alternative in a weekend](https://github.com/wassgha/rescript)** — 22 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49065779) (2026-07-27)
 - **[Show HN: OpenSlides – Open-source desktop app for animated code presentations](https://github.com/codewiththiha/OpenSlides)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49055586) (2026-07-26)
 - **[Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS)** — 18 points, 20 comments on [Show HN](https://news.ycombinator.com/item?id=49061015) (2026-07-26)
