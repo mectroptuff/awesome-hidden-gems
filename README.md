@@ -18,8 +18,14 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-07-28 09:30 UTC._
+_Last checked: 2026-07-29 09:32 UTC._
 
+- **[Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)** — 312 points, 81 comments on [Show HN](https://news.ycombinator.com/item?id=49090607) (2026-07-28)
+- **[Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library](https://github.com/reflex-dev/xy)** — 123 points, 46 comments on [Show HN](https://news.ycombinator.com/item?id=49085798) (2026-07-28)
+- **[Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)** — 109 points, 48 comments on [Show HN](https://news.ycombinator.com/item?id=49083239) (2026-07-28)
+- **[Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](https://github.com/ctrlb-hq/ctrlb-decompose)** — 49 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49083336) (2026-07-28)
+- **[Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104](https://github.com/BraveAnn011/ai-halo-valuation-bias)** — 18 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49083244) (2026-07-28)
+- **[Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure](https://github.com/cynative/cynative)** — 16 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49086558) (2026-07-28)
 - **[Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted](https://github.com/letsseal/letsseal)** — 86 points, 30 comments on [Show HN](https://news.ycombinator.com/item?id=49071365) (2026-07-27)
 - **[Show HN: Yap – OSS on-device voice dictation for macOS with no model to download](https://github.com/FrigadeHQ/yap)** — 68 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49073834) (2026-07-27)
 - **[Show HN: A browser-based video editor that renders videos directly with FFmpeg](https://github.com/thiagoalbrecht/weave)** — 17 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49058396) (2026-07-26)
