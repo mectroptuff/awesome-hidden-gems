@@ -18,8 +18,14 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-07-29 09:32 UTC._
+_Last checked: 2026-07-30 09:25 UTC._
 
+- **[Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)** — 789 points, 277 comments on [Show HN](https://news.ycombinator.com/item?id=49098510) (2026-07-29)
+- **[Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon](https://github.com/VladUZH/qwen-scribe)** — 84 points, 17 comments on [Show HN](https://news.ycombinator.com/item?id=49098260) (2026-07-29)
+- **[Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector)** — 62 points, 65 comments on [Show HN](https://news.ycombinator.com/item?id=49096917) (2026-07-29)
+- **[Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)** — 35 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49104747) (2026-07-30)
+- **[Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)** — 18 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49092730) (2026-07-29)
+- **[Show HN: BrowserAct: Browser Layer for Your AI Agent](https://github.com/browser-act/skills)** — 15 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49081241) (2026-07-28)
 - **[Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)** — 312 points, 81 comments on [Show HN](https://news.ycombinator.com/item?id=49090607) (2026-07-28)
 - **[Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library](https://github.com/reflex-dev/xy)** — 123 points, 46 comments on [Show HN](https://news.ycombinator.com/item?id=49085798) (2026-07-28)
 - **[Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)** — 109 points, 48 comments on [Show HN](https://news.ycombinator.com/item?id=49083239) (2026-07-28)
@@ -39,8 +45,6 @@ _Last checked: 2026-07-29 09:32 UTC._
 - **[Show HN: Distill and serve models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer)** — 43 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=49063454) (2026-07-26)
 - **[Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window](https://github.com/alokdhir/spinwin)** — 37 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49049638) (2026-07-25)
 - **[Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools)** — 32 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49041546) (2026-07-24)
-- **[Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth)** — 27 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49050824) (2026-07-25)
-- **[Show HN: Cuts Long Horizon Inference Costs by 50% via external KV Cache Offload](https://github.com/openlake-project/openlake)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49057767) (2026-07-26)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
