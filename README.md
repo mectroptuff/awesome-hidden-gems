@@ -18,8 +18,12 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-07-30 09:25 UTC._
+_Last checked: 2026-07-31 09:37 UTC._
 
+- **[Show HN: Claude-account – switch Claude Code accounts without logging in again](https://github.com/hamzarehmandeveloper/claude-account)** — 49 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49111019) (2026-07-30)
+- **[Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)** — 47 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49119425) (2026-07-31)
+- **[Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway)** — 17 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49113543) (2026-07-30)
+- **[Show HN: Dreeve, a self-hosted dashboard for your sports and fitness data](https://github.com/dreeveapp/dreeve)** — 15 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49101030) (2026-07-29)
 - **[Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)** — 789 points, 277 comments on [Show HN](https://news.ycombinator.com/item?id=49098510) (2026-07-29)
 - **[Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon](https://github.com/VladUZH/qwen-scribe)** — 84 points, 17 comments on [Show HN](https://news.ycombinator.com/item?id=49098260) (2026-07-29)
 - **[Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector)** — 62 points, 65 comments on [Show HN](https://news.ycombinator.com/item?id=49096917) (2026-07-29)
@@ -41,10 +45,6 @@ _Last checked: 2026-07-30 09:25 UTC._
 - **[Show HN: Managing on-premise servers without Kubernetes](https://github.com/ricardoborges/Nautilus)** — 18 points, 11 comments on [Show HN](https://news.ycombinator.com/item?id=49057985) (2026-07-26)
 - **[Show HN: Rudoc – a 4.5MB Rust document converter](https://github.com/asong56/rudoc)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49052181) (2026-07-25)
 - **[Show HN: Twigg – open-source big-tech-like version control and software forge](https://github.com/twigg-vc/monorepo)** — 17 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49040345) (2026-07-24)
-- **[Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity)** — 132 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49059398) (2026-07-26)
-- **[Show HN: Distill and serve models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer)** — 43 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=49063454) (2026-07-26)
-- **[Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window](https://github.com/alokdhir/spinwin)** — 37 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49049638) (2026-07-25)
-- **[Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live](https://github.com/apresta/max-studio-tools)** — 32 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49041546) (2026-07-24)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
