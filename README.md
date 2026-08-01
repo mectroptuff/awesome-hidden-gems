@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-07-31 09:37 UTC._
+_Last checked: 2026-08-01 09:00 UTC._
 
+- **[Show HN: BitBang – Reach machines behind NAT from a browser, no account](https://github.com/richlegrand/bitbang-cli)** — 83 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=49123789) (2026-07-31)
 - **[Show HN: Claude-account – switch Claude Code accounts without logging in again](https://github.com/hamzarehmandeveloper/claude-account)** — 49 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49111019) (2026-07-30)
 - **[Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)** — 47 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49119425) (2026-07-31)
 - **[Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway)** — 17 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49113543) (2026-07-30)
@@ -44,7 +45,6 @@ _Last checked: 2026-07-31 09:37 UTC._
 - **[Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS)** — 18 points, 20 comments on [Show HN](https://news.ycombinator.com/item?id=49061015) (2026-07-26)
 - **[Show HN: Managing on-premise servers without Kubernetes](https://github.com/ricardoborges/Nautilus)** — 18 points, 11 comments on [Show HN](https://news.ycombinator.com/item?id=49057985) (2026-07-26)
 - **[Show HN: Rudoc – a 4.5MB Rust document converter](https://github.com/asong56/rudoc)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49052181) (2026-07-25)
-- **[Show HN: Twigg – open-source big-tech-like version control and software forge](https://github.com/twigg-vc/monorepo)** — 17 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49040345) (2026-07-24)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
