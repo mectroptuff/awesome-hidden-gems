@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-01 09:00 UTC._
+_Last checked: 2026-08-02 09:04 UTC._
 
+- **[Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)** — 148 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49140396) (2026-08-02)
+- **[Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)](https://github.com/pochenai/nano-llm-posttraining)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49133851) (2026-08-01)
+- **[Show HN: Local text, image, video, music and 3D from one CLI, no Python](https://github.com/sawfwair/mere-run)** — 16 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=49109663) (2026-07-30)
 - **[Show HN: BitBang – Reach machines behind NAT from a browser, no account](https://github.com/richlegrand/bitbang-cli)** — 83 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=49123789) (2026-07-31)
 - **[Show HN: Claude-account – switch Claude Code accounts without logging in again](https://github.com/hamzarehmandeveloper/claude-account)** — 49 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49111019) (2026-07-30)
 - **[Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)** — 47 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49119425) (2026-07-31)
@@ -42,9 +45,6 @@ _Last checked: 2026-08-01 09:00 UTC._
 - **[Show HN: A browser-based video editor that renders videos directly with FFmpeg](https://github.com/thiagoalbrecht/weave)** — 17 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49058396) (2026-07-26)
 - **[Show HN: Descript wanted $24/mo, I built an open-source alternative in a weekend](https://github.com/wassgha/rescript)** — 22 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49065779) (2026-07-27)
 - **[Show HN: OpenSlides – Open-source desktop app for animated code presentations](https://github.com/codewiththiha/OpenSlides)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49055586) (2026-07-26)
-- **[Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter](https://github.com/hertz-ai/HARTOS)** — 18 points, 20 comments on [Show HN](https://news.ycombinator.com/item?id=49061015) (2026-07-26)
-- **[Show HN: Managing on-premise servers without Kubernetes](https://github.com/ricardoborges/Nautilus)** — 18 points, 11 comments on [Show HN](https://news.ycombinator.com/item?id=49057985) (2026-07-26)
-- **[Show HN: Rudoc – a 4.5MB Rust document converter](https://github.com/asong56/rudoc)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49052181) (2026-07-25)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
