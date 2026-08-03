@@ -18,8 +18,14 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-02 09:04 UTC._
+_Last checked: 2026-08-03 10:32 UTC._
 
+- **[Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)** — 221 points, 55 comments on [Show HN](https://news.ycombinator.com/item?id=49145937) (2026-08-02)
+- **[Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)** — 143 points, 130 comments on [Show HN](https://news.ycombinator.com/item?id=49149326) (2026-08-02)
+- **[Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)** — 118 points, 36 comments on [Show HN](https://news.ycombinator.com/item?id=49146267) (2026-08-02)
+- **[Show HN: Make your Framework 12 sound like a creaky door](https://github.com/ArcaEge/creakwork12)** — 84 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49148048) (2026-08-02)
+- **[Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular)** — 75 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49142794) (2026-08-02)
+- **[Show HN: Mu – Tools for Agents](https://github.com/micro/mu)** — 50 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=49148899) (2026-08-02)
 - **[Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)** — 148 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49140396) (2026-08-02)
 - **[Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)](https://github.com/pochenai/nano-llm-posttraining)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49133851) (2026-08-01)
 - **[Show HN: Local text, image, video, music and 3D from one CLI, no Python](https://github.com/sawfwair/mere-run)** — 16 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=49109663) (2026-07-30)
@@ -39,12 +45,6 @@ _Last checked: 2026-08-02 09:04 UTC._
 - **[Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)** — 109 points, 48 comments on [Show HN](https://news.ycombinator.com/item?id=49083239) (2026-07-28)
 - **[Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](https://github.com/ctrlb-hq/ctrlb-decompose)** — 49 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49083336) (2026-07-28)
 - **[Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104](https://github.com/BraveAnn011/ai-halo-valuation-bias)** — 18 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49083244) (2026-07-28)
-- **[Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure](https://github.com/cynative/cynative)** — 16 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49086558) (2026-07-28)
-- **[Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted](https://github.com/letsseal/letsseal)** — 86 points, 30 comments on [Show HN](https://news.ycombinator.com/item?id=49071365) (2026-07-27)
-- **[Show HN: Yap – OSS on-device voice dictation for macOS with no model to download](https://github.com/FrigadeHQ/yap)** — 68 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49073834) (2026-07-27)
-- **[Show HN: A browser-based video editor that renders videos directly with FFmpeg](https://github.com/thiagoalbrecht/weave)** — 17 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49058396) (2026-07-26)
-- **[Show HN: Descript wanted $24/mo, I built an open-source alternative in a weekend](https://github.com/wassgha/rescript)** — 22 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49065779) (2026-07-27)
-- **[Show HN: OpenSlides – Open-source desktop app for animated code presentations](https://github.com/codewiththiha/OpenSlides)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49055586) (2026-07-26)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
