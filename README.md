@@ -18,8 +18,12 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-03 10:32 UTC._
+_Last checked: 2026-08-04 09:33 UTC._
 
+- **[Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)** — 179 points, 76 comments on [Show HN](https://news.ycombinator.com/item?id=49158333) (2026-08-03)
+- **[Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler)** — 110 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49154127) (2026-08-03)
+- **[Show HN: Katharos Functional programming and CSP-style concurrency for Python](https://github.com/kamalfarahani/katharos)** — 37 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=49143179) (2026-08-02)
+- **[Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary](https://github.com/paoloanzn/microcodex)** — 19 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49147842) (2026-08-02)
 - **[Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)** — 221 points, 55 comments on [Show HN](https://news.ycombinator.com/item?id=49145937) (2026-08-02)
 - **[Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)** — 143 points, 130 comments on [Show HN](https://news.ycombinator.com/item?id=49149326) (2026-08-02)
 - **[Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)** — 118 points, 36 comments on [Show HN](https://news.ycombinator.com/item?id=49146267) (2026-08-02)
@@ -41,10 +45,6 @@ _Last checked: 2026-08-03 10:32 UTC._
 - **[Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)** — 18 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49092730) (2026-07-29)
 - **[Show HN: BrowserAct: Browser Layer for Your AI Agent](https://github.com/browser-act/skills)** — 15 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49081241) (2026-07-28)
 - **[Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)** — 312 points, 81 comments on [Show HN](https://news.ycombinator.com/item?id=49090607) (2026-07-28)
-- **[Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library](https://github.com/reflex-dev/xy)** — 123 points, 46 comments on [Show HN](https://news.ycombinator.com/item?id=49085798) (2026-07-28)
-- **[Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)** — 109 points, 48 comments on [Show HN](https://news.ycombinator.com/item?id=49083239) (2026-07-28)
-- **[Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs](https://github.com/ctrlb-hq/ctrlb-decompose)** — 49 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49083336) (2026-07-28)
-- **[Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104](https://github.com/BraveAnn011/ai-halo-valuation-bias)** — 18 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49083244) (2026-07-28)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
