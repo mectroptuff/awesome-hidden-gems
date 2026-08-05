@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-04 09:33 UTC._
+_Last checked: 2026-08-05 09:30 UTC._
 
+- **[Show HN: Fine-tune an 8B model on a 4 GB laptop GPU](https://github.com/MakazhanAlpamys/Soup)** — 127 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49166984) (2026-08-04)
+- **[Show HN: SIMD Viterbi Decoder in Rust](https://github.com/brian-armstrong/fec)** — 46 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49176212) (2026-08-04)
+- **[Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI](https://github.com/Chiaro-HQ/methodology)** — 34 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49171140) (2026-08-04)
 - **[Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)** — 179 points, 76 comments on [Show HN](https://news.ycombinator.com/item?id=49158333) (2026-08-03)
 - **[Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler)** — 110 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49154127) (2026-08-03)
 - **[Show HN: Katharos Functional programming and CSP-style concurrency for Python](https://github.com/kamalfarahani/katharos)** — 37 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=49143179) (2026-08-02)
@@ -42,9 +45,6 @@ _Last checked: 2026-08-04 09:33 UTC._
 - **[Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon](https://github.com/VladUZH/qwen-scribe)** — 84 points, 17 comments on [Show HN](https://news.ycombinator.com/item?id=49098260) (2026-07-29)
 - **[Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector)** — 62 points, 65 comments on [Show HN](https://news.ycombinator.com/item?id=49096917) (2026-07-29)
 - **[Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)** — 35 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49104747) (2026-07-30)
-- **[Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects](https://github.com/jagg-ix/zil-lean)** — 18 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49092730) (2026-07-29)
-- **[Show HN: BrowserAct: Browser Layer for Your AI Agent](https://github.com/browser-act/skills)** — 15 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49081241) (2026-07-28)
-- **[Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)** — 312 points, 81 comments on [Show HN](https://news.ycombinator.com/item?id=49090607) (2026-07-28)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
