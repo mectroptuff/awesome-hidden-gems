@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-05 09:30 UTC._
+_Last checked: 2026-08-06 09:34 UTC._
 
+- **[Show HN: HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode](https://github.com/adrida/hud-mode)** — 22 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49184388) (2026-08-05)
+- **[Show HN: Wallfacer – A terminal session manager for Claude Code, and more](https://github.com/pradipta/wallfacer)** — 20 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49192219) (2026-08-06)
+- **[Show HN: My receipt printer prints an original artwork every morning](https://github.com/matt-w-horn/morningprint)** — 20 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49187583) (2026-08-05)
 - **[Show HN: Fine-tune an 8B model on a 4 GB laptop GPU](https://github.com/MakazhanAlpamys/Soup)** — 127 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49166984) (2026-08-04)
 - **[Show HN: SIMD Viterbi Decoder in Rust](https://github.com/brian-armstrong/fec)** — 46 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49176212) (2026-08-04)
 - **[Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI](https://github.com/Chiaro-HQ/methodology)** — 34 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49171140) (2026-08-04)
@@ -42,9 +45,6 @@ _Last checked: 2026-08-05 09:30 UTC._
 - **[Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway)** — 17 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49113543) (2026-07-30)
 - **[Show HN: Dreeve, a self-hosted dashboard for your sports and fitness data](https://github.com/dreeveapp/dreeve)** — 15 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49101030) (2026-07-29)
 - **[Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)** — 789 points, 277 comments on [Show HN](https://news.ycombinator.com/item?id=49098510) (2026-07-29)
-- **[Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon](https://github.com/VladUZH/qwen-scribe)** — 84 points, 17 comments on [Show HN](https://news.ycombinator.com/item?id=49098260) (2026-07-29)
-- **[Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector)** — 62 points, 65 comments on [Show HN](https://news.ycombinator.com/item?id=49096917) (2026-07-29)
-- **[Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)** — 35 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49104747) (2026-07-30)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
