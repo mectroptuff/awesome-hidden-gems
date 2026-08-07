@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-06 09:34 UTC._
+_Last checked: 2026-08-07 08:07 UTC._
 
+- **[Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)](https://github.com/CopilotKit/channels-sdk)** — 101 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49198583) (2026-08-06)
+- **[Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2](https://github.com/mattdeeds/pokeemerald-rp2350)** — 47 points, 28 comments on [Show HN](https://news.ycombinator.com/item?id=49203059) (2026-08-06)
+- **[Show HN: A terminal glued to the macOS dock](https://github.com/palamim/starboard)** — 39 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49194772) (2026-08-06)
 - **[Show HN: HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode](https://github.com/adrida/hud-mode)** — 22 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49184388) (2026-08-05)
 - **[Show HN: Wallfacer – A terminal session manager for Claude Code, and more](https://github.com/pradipta/wallfacer)** — 20 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49192219) (2026-08-06)
 - **[Show HN: My receipt printer prints an original artwork every morning](https://github.com/matt-w-horn/morningprint)** — 20 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49187583) (2026-08-05)
@@ -42,9 +45,6 @@ _Last checked: 2026-08-06 09:34 UTC._
 - **[Show HN: BitBang – Reach machines behind NAT from a browser, no account](https://github.com/richlegrand/bitbang-cli)** — 83 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=49123789) (2026-07-31)
 - **[Show HN: Claude-account – switch Claude Code accounts without logging in again](https://github.com/hamzarehmandeveloper/claude-account)** — 49 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49111019) (2026-07-30)
 - **[Show HN: Gander, an Android file viewer that asks for no permissions at all](https://github.com/mokshablr/gander)** — 47 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49119425) (2026-07-31)
-- **[Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents](https://github.com/yashmahajan10/llm-differential-privacy-gateway)** — 17 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49113543) (2026-07-30)
-- **[Show HN: Dreeve, a self-hosted dashboard for your sports and fitness data](https://github.com/dreeveapp/dreeve)** — 15 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49101030) (2026-07-29)
-- **[Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)** — 789 points, 277 comments on [Show HN](https://news.ycombinator.com/item?id=49098510) (2026-07-29)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
