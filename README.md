@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-10 08:21 UTC._
+_Last checked: 2026-08-11 08:03 UTC._
 
+- **[Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)** — 130 points, 78 comments on [Show HN](https://news.ycombinator.com/item?id=49245437) (2026-08-10)
+- **[Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)** — 33 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=49253721) (2026-08-11)
 - **[Show HN: Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)** — 197 points, 106 comments on [Show HN](https://news.ycombinator.com/item?id=49209385) (2026-08-07)
 - **[Show HN: Certo – An open source platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49207793) (2026-08-07)
 - **[Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)](https://github.com/CopilotKit/channels-sdk)** — 101 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49198583) (2026-08-06)
@@ -43,8 +45,6 @@ _Last checked: 2026-08-10 08:21 UTC._
 - **[Show HN: Mu – Tools for Agents](https://github.com/micro/mu)** — 50 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=49148899) (2026-08-02)
 - **[Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)** — 148 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49140396) (2026-08-02)
 - **[Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)](https://github.com/pochenai/nano-llm-posttraining)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49133851) (2026-08-01)
-- **[Show HN: Local text, image, video, music and 3D from one CLI, no Python](https://github.com/sawfwair/mere-run)** — 16 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=49109663) (2026-07-30)
-- **[Show HN: BitBang – Reach machines behind NAT from a browser, no account](https://github.com/richlegrand/bitbang-cli)** — 83 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=49123789) (2026-07-31)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
