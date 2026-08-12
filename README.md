@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-11 08:03 UTC._
+_Last checked: 2026-08-12 08:09 UTC._
 
+- **[Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)** — 151 points, 96 comments on [Show HN](https://news.ycombinator.com/item?id=49259611) (2026-08-11)
+- **[Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status](https://github.com/leog/ai-pulse)** — 18 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49250486) (2026-08-10)
+- **[Show HN: 100% native Swift harness (NOT Electron)](https://github.com/Lore-Hex/QuillCode)** — 15 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49243358) (2026-08-10)
 - **[Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)** — 130 points, 78 comments on [Show HN](https://news.ycombinator.com/item?id=49245437) (2026-08-10)
 - **[Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)** — 33 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=49253721) (2026-08-11)
 - **[Show HN: Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)** — 197 points, 106 comments on [Show HN](https://news.ycombinator.com/item?id=49209385) (2026-08-07)
@@ -42,9 +45,6 @@ _Last checked: 2026-08-11 08:03 UTC._
 - **[Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)** — 118 points, 36 comments on [Show HN](https://news.ycombinator.com/item?id=49146267) (2026-08-02)
 - **[Show HN: Make your Framework 12 sound like a creaky door](https://github.com/ArcaEge/creakwork12)** — 84 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49148048) (2026-08-02)
 - **[Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores](https://github.com/syncular/syncular)** — 75 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49142794) (2026-08-02)
-- **[Show HN: Mu – Tools for Agents](https://github.com/micro/mu)** — 50 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=49148899) (2026-08-02)
-- **[Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)** — 148 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49140396) (2026-08-02)
-- **[Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)](https://github.com/pochenai/nano-llm-posttraining)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49133851) (2026-08-01)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
