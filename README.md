@@ -18,8 +18,12 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-13 08:11 UTC._
+_Last checked: 2026-08-14 08:07 UTC._
 
+- **[Show HN: MCP-stama – An ultra-fast Rust MCP server with no dependencies](https://github.com/StamManif/mcp-stama)** — 71 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49292584) (2026-08-13)
+- **[Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5](https://github.com/fellowgeek/mcp-memory)** — 59 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=49286073) (2026-08-13)
+- **[Show HN: C# Game Engine with its own scripting language and IDE](https://github.com/ArcadeMakerSources/ArcadeMaker)** — 21 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49258085) (2026-08-11)
+- **[Show HN: Smarter Shell History for Zsh](https://github.com/overflowy/zhist)** — 15 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=49272264) (2026-08-12)
 - **[Show HN: TermDOM – HTML, CSS and JavaScript (With a Real DOM) for TUIs and CLIs](https://github.com/bikeshaving/termdom)** — 17 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49261987) (2026-08-11)
 - **[Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)** — 151 points, 96 comments on [Show HN](https://news.ycombinator.com/item?id=49259611) (2026-08-11)
 - **[Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status](https://github.com/leog/ai-pulse)** — 18 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49250486) (2026-08-10)
@@ -41,10 +45,6 @@ _Last checked: 2026-08-13 08:11 UTC._
 - **[Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler)** — 110 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49154127) (2026-08-03)
 - **[Show HN: Katharos Functional programming and CSP-style concurrency for Python](https://github.com/kamalfarahani/katharos)** — 37 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=49143179) (2026-08-02)
 - **[Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary](https://github.com/paoloanzn/microcodex)** — 19 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49147842) (2026-08-02)
-- **[Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)** — 221 points, 55 comments on [Show HN](https://news.ycombinator.com/item?id=49145937) (2026-08-02)
-- **[Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)** — 143 points, 130 comments on [Show HN](https://news.ycombinator.com/item?id=49149326) (2026-08-02)
-- **[Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)** — 118 points, 36 comments on [Show HN](https://news.ycombinator.com/item?id=49146267) (2026-08-02)
-- **[Show HN: Make your Framework 12 sound like a creaky door](https://github.com/ArcaEge/creakwork12)** — 84 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49148048) (2026-08-02)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
