@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-14 08:07 UTC._
+_Last checked: 2026-08-15 07:21 UTC._
 
+- **[Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)** — 66 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49303046) (2026-08-14)
+- **[Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)** — 44 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49293523) (2026-08-14)
+- **[Show HN: Graft – Claude Code hooks that cut grep tokens by 42%](https://github.com/NanoNets/Graft)** — 39 points, 42 comments on [Show HN](https://news.ycombinator.com/item?id=49299985) (2026-08-14)
 - **[Show HN: MCP-stama – An ultra-fast Rust MCP server with no dependencies](https://github.com/StamManif/mcp-stama)** — 71 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49292584) (2026-08-13)
 - **[Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5](https://github.com/fellowgeek/mcp-memory)** — 59 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=49286073) (2026-08-13)
 - **[Show HN: C# Game Engine with its own scripting language and IDE](https://github.com/ArcadeMakerSources/ArcadeMaker)** — 21 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49258085) (2026-08-11)
@@ -42,9 +45,6 @@ _Last checked: 2026-08-14 08:07 UTC._
 - **[Show HN: SIMD Viterbi Decoder in Rust](https://github.com/brian-armstrong/fec)** — 46 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49176212) (2026-08-04)
 - **[Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI](https://github.com/Chiaro-HQ/methodology)** — 34 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49171140) (2026-08-04)
 - **[Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)** — 179 points, 76 comments on [Show HN](https://news.ycombinator.com/item?id=49158333) (2026-08-03)
-- **[Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone](https://github.com/garagehq/nightcrawler)** — 110 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49154127) (2026-08-03)
-- **[Show HN: Katharos Functional programming and CSP-style concurrency for Python](https://github.com/kamalfarahani/katharos)** — 37 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=49143179) (2026-08-02)
-- **[Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary](https://github.com/paoloanzn/microcodex)** — 19 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49147842) (2026-08-02)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
