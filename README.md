@@ -18,7 +18,7 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-15 07:21 UTC._
+_Last checked: 2026-08-16 07:22 UTC._
 
 - **[Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)** — 66 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49303046) (2026-08-14)
 - **[Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)** — 44 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49293523) (2026-08-14)
