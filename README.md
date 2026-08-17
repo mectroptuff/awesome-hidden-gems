@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-16 07:22 UTC._
+_Last checked: 2026-08-17 07:43 UTC._
 
+- **[Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)** — 51 points, 79 comments on [Show HN](https://news.ycombinator.com/item?id=49317546) (2026-08-16)
+- **[Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)** — 28 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49318128) (2026-08-16)
+- **[Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server](https://github.com/mldsveda/PyScrappy)** — 20 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49317799) (2026-08-16)
 - **[Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)** — 66 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49303046) (2026-08-14)
 - **[Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)** — 44 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49293523) (2026-08-14)
 - **[Show HN: Graft – Claude Code hooks that cut grep tokens by 42%](https://github.com/NanoNets/Graft)** — 39 points, 42 comments on [Show HN](https://news.ycombinator.com/item?id=49299985) (2026-08-14)
@@ -42,9 +45,6 @@ _Last checked: 2026-08-16 07:22 UTC._
 - **[Show HN: Wallfacer – A terminal session manager for Claude Code, and more](https://github.com/pradipta/wallfacer)** — 20 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49192219) (2026-08-06)
 - **[Show HN: My receipt printer prints an original artwork every morning](https://github.com/matt-w-horn/morningprint)** — 20 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49187583) (2026-08-05)
 - **[Show HN: Fine-tune an 8B model on a 4 GB laptop GPU](https://github.com/MakazhanAlpamys/Soup)** — 127 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49166984) (2026-08-04)
-- **[Show HN: SIMD Viterbi Decoder in Rust](https://github.com/brian-armstrong/fec)** — 46 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49176212) (2026-08-04)
-- **[Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI](https://github.com/Chiaro-HQ/methodology)** — 34 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49171140) (2026-08-04)
-- **[Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)** — 179 points, 76 comments on [Show HN](https://news.ycombinator.com/item?id=49158333) (2026-08-03)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
