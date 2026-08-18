@@ -18,7 +18,7 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-17 07:43 UTC._
+_Last checked: 2026-08-18 07:29 UTC._
 
 - **[Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)** — 51 points, 79 comments on [Show HN](https://news.ycombinator.com/item?id=49317546) (2026-08-16)
 - **[Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)** — 28 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49318128) (2026-08-16)
