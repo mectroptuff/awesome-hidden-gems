@@ -18,8 +18,14 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-18 07:29 UTC._
+_Last checked: 2026-08-19 07:30 UTC._
 
+- **[Show HN: Openleetcode – Local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)** — 61 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49347178) (2026-08-18)
+- **[Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier)** — 38 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49355607) (2026-08-19)
+- **[Show HN: A local MitM proxy to control TLS fingerprints](https://github.com/ytkoka/impersonate-proxy)** — 25 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49345091) (2026-08-18)
+- **[Show HN: macOS data protection keychain for Electron apps](https://github.com/biw/keychain-store)** — 23 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49349159) (2026-08-18)
+- **[Show HN: I canceled my AI code reviewer and wrote a free local one](https://github.com/mukundzha/avouch)** — 22 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49345154) (2026-08-18)
+- **[Show HN: Visimer – open-source visual editor for Mermaid diagrams](https://github.com/inkeep/visimer)** — 17 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49335470) (2026-08-17)
 - **[Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)** — 51 points, 79 comments on [Show HN](https://news.ycombinator.com/item?id=49317546) (2026-08-16)
 - **[Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)** — 28 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49318128) (2026-08-16)
 - **[Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server](https://github.com/mldsveda/PyScrappy)** — 20 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49317799) (2026-08-16)
@@ -39,12 +45,6 @@ _Last checked: 2026-08-18 07:29 UTC._
 - **[Show HN: Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)** — 197 points, 106 comments on [Show HN](https://news.ycombinator.com/item?id=49209385) (2026-08-07)
 - **[Show HN: Certo – An open source platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49207793) (2026-08-07)
 - **[Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)](https://github.com/CopilotKit/channels-sdk)** — 101 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49198583) (2026-08-06)
-- **[Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2](https://github.com/mattdeeds/pokeemerald-rp2350)** — 47 points, 28 comments on [Show HN](https://news.ycombinator.com/item?id=49203059) (2026-08-06)
-- **[Show HN: A terminal glued to the macOS dock](https://github.com/palamim/starboard)** — 39 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49194772) (2026-08-06)
-- **[Show HN: HUD, an open-source minimal terminal UI for ClaudeCode, Codex, OpenCode](https://github.com/adrida/hud-mode)** — 22 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49184388) (2026-08-05)
-- **[Show HN: Wallfacer – A terminal session manager for Claude Code, and more](https://github.com/pradipta/wallfacer)** — 20 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49192219) (2026-08-06)
-- **[Show HN: My receipt printer prints an original artwork every morning](https://github.com/matt-w-horn/morningprint)** — 20 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49187583) (2026-08-05)
-- **[Show HN: Fine-tune an 8B model on a 4 GB laptop GPU](https://github.com/MakazhanAlpamys/Soup)** — 127 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49166984) (2026-08-04)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
