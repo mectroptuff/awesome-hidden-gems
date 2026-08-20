@@ -18,7 +18,7 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-19 07:30 UTC._
+_Last checked: 2026-08-20 07:32 UTC._
 
 - **[Show HN: Openleetcode – Local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)** — 61 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49347178) (2026-08-18)
 - **[Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier)** — 38 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49355607) (2026-08-19)
