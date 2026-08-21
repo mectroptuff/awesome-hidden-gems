@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-20 07:32 UTC._
+_Last checked: 2026-08-21 07:34 UTC._
 
+- **[Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP](https://github.com/paulsp94/omacosy)** — 53 points, 40 comments on [Show HN](https://news.ycombinator.com/item?id=49374830) (2026-08-20)
+- **[Show HN: A data viewer for choosing Frigate-compatible IP cameras](https://github.com/ch-bas/cctv-camera-database)** — 45 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49380653) (2026-08-20)
 - **[Show HN: Openleetcode – Local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)** — 61 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49347178) (2026-08-18)
 - **[Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier)** — 38 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49355607) (2026-08-19)
 - **[Show HN: A local MitM proxy to control TLS fingerprints](https://github.com/ytkoka/impersonate-proxy)** — 25 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49345091) (2026-08-18)
@@ -43,8 +45,6 @@ _Last checked: 2026-08-20 07:32 UTC._
 - **[Show HN: Ante, a coding agent in a single binary that runs offline](https://github.com/AntigmaLabs/ante)** — 130 points, 78 comments on [Show HN](https://news.ycombinator.com/item?id=49245437) (2026-08-10)
 - **[Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)** — 33 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=49253721) (2026-08-11)
 - **[Show HN: Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)** — 197 points, 106 comments on [Show HN](https://news.ycombinator.com/item?id=49209385) (2026-08-07)
-- **[Show HN: Certo – An open source platform to deliver Open Badges](https://github.com/schroedinger-Hat/certo)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49207793) (2026-08-07)
-- **[Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)](https://github.com/CopilotKit/channels-sdk)** — 101 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49198583) (2026-08-06)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
