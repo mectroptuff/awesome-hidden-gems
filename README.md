@@ -18,7 +18,7 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-23 07:25 UTC._
+_Last checked: 2026-08-24 07:50 UTC._
 
 - **[Show HN: Zcomplete – Shell Typo Correction](https://github.com/omarfakih1/zcomplete)** — 16 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49392677) (2026-08-21)
 - **[Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate)** — 39 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49390739) (2026-08-21)
