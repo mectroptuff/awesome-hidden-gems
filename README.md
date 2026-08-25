@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-24 07:50 UTC._
+_Last checked: 2026-08-25 07:36 UTC._
 
+- **[Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](https://github.com/getkern/kern)** — 58 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49423927) (2026-08-24)
+- **[Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3](https://github.com/ovenpasta/adi2)** — 49 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49422243) (2026-08-24)
+- **[Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)** — 31 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49429095) (2026-08-25)
 - **[Show HN: Zcomplete – Shell Typo Correction](https://github.com/omarfakih1/zcomplete)** — 16 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49392677) (2026-08-21)
 - **[Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate)** — 39 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49390739) (2026-08-21)
 - **[Show HN: A desktop fly drawn to the scent of vibecode](https://github.com/kulikov0/desktop-vibe-fly)** — 19 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49389466) (2026-08-21)
@@ -42,9 +45,6 @@ _Last checked: 2026-08-24 07:50 UTC._
 - **[Show HN: C# Game Engine with its own scripting language and IDE](https://github.com/ArcadeMakerSources/ArcadeMaker)** — 21 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49258085) (2026-08-11)
 - **[Show HN: Smarter Shell History for Zsh](https://github.com/overflowy/zhist)** — 15 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=49272264) (2026-08-12)
 - **[Show HN: TermDOM – HTML, CSS and JavaScript (With a Real DOM) for TUIs and CLIs](https://github.com/bikeshaving/termdom)** — 17 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49261987) (2026-08-11)
-- **[Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife)** — 151 points, 96 comments on [Show HN](https://news.ycombinator.com/item?id=49259611) (2026-08-11)
-- **[Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status](https://github.com/leog/ai-pulse)** — 18 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49250486) (2026-08-10)
-- **[Show HN: 100% native Swift harness (NOT Electron)](https://github.com/Lore-Hex/QuillCode)** — 15 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49243358) (2026-08-10)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
