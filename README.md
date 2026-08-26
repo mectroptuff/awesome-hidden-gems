@@ -18,8 +18,12 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-25 07:36 UTC._
+_Last checked: 2026-08-26 07:38 UTC._
 
+- **[Show HN: LatticeDB – Like SQLite but for graph databases](https://github.com/jeffhajewski/latticedb)** — 143 points, 38 comments on [Show HN](https://news.ycombinator.com/item?id=49437049) (2026-08-25)
+- **[Show HN: I made a Raspberry with Qwen my local car AI](https://github.com/ThinkOffApp/CarWatch)** — 129 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=49435675) (2026-08-25)
+- **[Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)** — 83 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49441375) (2026-08-25)
+- **[Show HN: Lightweight system monitor for Linux VPS written in Go](https://github.com/leodeim/vpsmon)** — 56 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49437361) (2026-08-25)
 - **[Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](https://github.com/getkern/kern)** — 58 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49423927) (2026-08-24)
 - **[Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3](https://github.com/ovenpasta/adi2)** — 49 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49422243) (2026-08-24)
 - **[Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)** — 31 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49429095) (2026-08-25)
@@ -41,10 +45,6 @@ _Last checked: 2026-08-25 07:36 UTC._
 - **[Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)** — 44 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49293523) (2026-08-14)
 - **[Show HN: Graft – Claude Code hooks that cut grep tokens by 42%](https://github.com/NanoNets/Graft)** — 39 points, 42 comments on [Show HN](https://news.ycombinator.com/item?id=49299985) (2026-08-14)
 - **[Show HN: MCP-stama – An ultra-fast Rust MCP server with no dependencies](https://github.com/StamManif/mcp-stama)** — 71 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49292584) (2026-08-13)
-- **[Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5](https://github.com/fellowgeek/mcp-memory)** — 59 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=49286073) (2026-08-13)
-- **[Show HN: C# Game Engine with its own scripting language and IDE](https://github.com/ArcadeMakerSources/ArcadeMaker)** — 21 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49258085) (2026-08-11)
-- **[Show HN: Smarter Shell History for Zsh](https://github.com/overflowy/zhist)** — 15 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=49272264) (2026-08-12)
-- **[Show HN: TermDOM – HTML, CSS and JavaScript (With a Real DOM) for TUIs and CLIs](https://github.com/bikeshaving/termdom)** — 17 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49261987) (2026-08-11)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
