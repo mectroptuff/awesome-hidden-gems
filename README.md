@@ -18,8 +18,12 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-26 07:38 UTC._
+_Last checked: 2026-08-27 17:58 UTC._
 
+- **[Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why](https://github.com/kelviq/tare)** — 34 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49467551) (2026-08-27)
+- **[Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)](https://github.com/issacnitin/RealDiff)** — 34 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49464459) (2026-08-27)
+- **[Show HN: Restoredrill – proves your Postgres backups restore](https://github.com/ahmadpiran/restoredrill)** — 30 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49465291) (2026-08-27)
+- **[Show HN: TexLite – A lightweight self-hosted LaTeX workspace](https://github.com/SWUFE-DB-Group/TexLite)** — 21 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49450500) (2026-08-26)
 - **[Show HN: LatticeDB – Like SQLite but for graph databases](https://github.com/jeffhajewski/latticedb)** — 143 points, 38 comments on [Show HN](https://news.ycombinator.com/item?id=49437049) (2026-08-25)
 - **[Show HN: I made a Raspberry with Qwen my local car AI](https://github.com/ThinkOffApp/CarWatch)** — 129 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=49435675) (2026-08-25)
 - **[Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)** — 83 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49441375) (2026-08-25)
@@ -41,10 +45,6 @@ _Last checked: 2026-08-26 07:38 UTC._
 - **[Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)** — 51 points, 79 comments on [Show HN](https://news.ycombinator.com/item?id=49317546) (2026-08-16)
 - **[Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)** — 28 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49318128) (2026-08-16)
 - **[Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server](https://github.com/mldsveda/PyScrappy)** — 20 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49317799) (2026-08-16)
-- **[Show HN: Mole – Deep research agent for your terminal](https://github.com/lajosdeme/mole)** — 66 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49303046) (2026-08-14)
-- **[Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)** — 44 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49293523) (2026-08-14)
-- **[Show HN: Graft – Claude Code hooks that cut grep tokens by 42%](https://github.com/NanoNets/Graft)** — 39 points, 42 comments on [Show HN](https://news.ycombinator.com/item?id=49299985) (2026-08-14)
-- **[Show HN: MCP-stama – An ultra-fast Rust MCP server with no dependencies](https://github.com/StamManif/mcp-stama)** — 71 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49292584) (2026-08-13)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
