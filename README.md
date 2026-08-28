@@ -18,8 +18,14 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-27 17:58 UTC._
+_Last checked: 2026-08-28 19:08 UTC._
 
+- **[Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE)** — 212 points, 54 comments on [Show HN](https://news.ycombinator.com/item?id=49471965) (2026-08-27)
+- **[Show HN: We built open OpenRouter that turns usage into a better model](https://github.com/experientiallabs/experiential)** — 205 points, 44 comments on [Show HN](https://news.ycombinator.com/item?id=49471407) (2026-08-27)
+- **[Show HN: Yet another minimal and lightweight terminal multiplexer written in Go.](https://github.com/patriceckhart/hrdx)** — 34 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49468507) (2026-08-27)
+- **[Show HN: Watches user sessions, finds bugs that matter, and fixes them](https://github.com/opslane/opslane)** — 34 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49466704) (2026-08-27)
+- **[Show HN: IndexFlow – Open-source indexing infrastructure built with Rust](https://github.com/IndexFlowing/IndexFlow-core)** — 22 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49473767) (2026-08-28)
+- **[Show HN: FnScribe – Open-source, offline dictation for macOS](https://github.com/AlgorithmicResearchGroup/fnscribe)** — 20 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49475159) (2026-08-28)
 - **[Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why](https://github.com/kelviq/tare)** — 34 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49467551) (2026-08-27)
 - **[Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)](https://github.com/issacnitin/RealDiff)** — 34 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49464459) (2026-08-27)
 - **[Show HN: Restoredrill – proves your Postgres backups restore](https://github.com/ahmadpiran/restoredrill)** — 30 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49465291) (2026-08-27)
@@ -39,12 +45,6 @@ _Last checked: 2026-08-27 17:58 UTC._
 - **[Show HN: Openleetcode – Local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)** — 61 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49347178) (2026-08-18)
 - **[Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier)** — 38 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49355607) (2026-08-19)
 - **[Show HN: A local MitM proxy to control TLS fingerprints](https://github.com/ytkoka/impersonate-proxy)** — 25 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49345091) (2026-08-18)
-- **[Show HN: macOS data protection keychain for Electron apps](https://github.com/biw/keychain-store)** — 23 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49349159) (2026-08-18)
-- **[Show HN: I canceled my AI code reviewer and wrote a free local one](https://github.com/mukundzha/avouch)** — 22 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49345154) (2026-08-18)
-- **[Show HN: Visimer – open-source visual editor for Mermaid diagrams](https://github.com/inkeep/visimer)** — 17 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49335470) (2026-08-17)
-- **[Show HN: Laptop is the last place your secrets are still in plaintext](https://github.com/jitpass/jit)** — 51 points, 79 comments on [Show HN](https://news.ycombinator.com/item?id=49317546) (2026-08-16)
-- **[Show HN: Grafana agent observability for Hermes Agent](https://github.com/alexander-akhmetov/grafana-agento11y-hermes)** — 28 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49318128) (2026-08-16)
-- **[Show HN: PyScrappy, self-healing web scraping selectors plus an MCP server](https://github.com/mldsveda/PyScrappy)** — 20 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49317799) (2026-08-16)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
