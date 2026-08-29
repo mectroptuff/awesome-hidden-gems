@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-28 19:08 UTC._
+_Last checked: 2026-08-29 12:52 UTC._
 
+- **[Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai)** — 22 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49483173) (2026-08-28)
 - **[Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE)** — 212 points, 54 comments on [Show HN](https://news.ycombinator.com/item?id=49471965) (2026-08-27)
 - **[Show HN: We built open OpenRouter that turns usage into a better model](https://github.com/experientiallabs/experiential)** — 205 points, 44 comments on [Show HN](https://news.ycombinator.com/item?id=49471407) (2026-08-27)
 - **[Show HN: Yet another minimal and lightweight terminal multiplexer written in Go.](https://github.com/patriceckhart/hrdx)** — 34 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49468507) (2026-08-27)
@@ -44,7 +45,6 @@ _Last checked: 2026-08-28 19:08 UTC._
 - **[Show HN: A data viewer for choosing Frigate-compatible IP cameras](https://github.com/ch-bas/cctv-camera-database)** — 45 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49380653) (2026-08-20)
 - **[Show HN: Openleetcode – Local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)** — 61 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49347178) (2026-08-18)
 - **[Show HN: Automatically detect and patch walking-dead states in Sierra games](https://github.com/katiahayati/lucasartsifier)** — 38 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49355607) (2026-08-19)
-- **[Show HN: A local MitM proxy to control TLS fingerprints](https://github.com/ytkoka/impersonate-proxy)** — 25 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49345091) (2026-08-18)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
