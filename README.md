@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-08-30 12:26 UTC._
+_Last checked: 2026-08-31 14:37 UTC._
 
+- **[Show HN: Delete yourself from data brokers without a subscription](https://github.com/k7cfo/remove-your-data)** — 25 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=49493881) (2026-08-29)
 - **[Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website](https://github.com/AniketWathore/bolnee-chat)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49497227) (2026-08-30)
 - **[Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai)** — 22 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49483173) (2026-08-28)
 - **[Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE)** — 212 points, 54 comments on [Show HN](https://news.ycombinator.com/item?id=49471965) (2026-08-27)
@@ -44,7 +45,6 @@ _Last checked: 2026-08-30 12:26 UTC._
 - **[Show HN: A desktop fly drawn to the scent of vibecode](https://github.com/kulikov0/desktop-vibe-fly)** — 19 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49389466) (2026-08-21)
 - **[Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP](https://github.com/paulsp94/omacosy)** — 53 points, 40 comments on [Show HN](https://news.ycombinator.com/item?id=49374830) (2026-08-20)
 - **[Show HN: A data viewer for choosing Frigate-compatible IP cameras](https://github.com/ch-bas/cctv-camera-database)** — 45 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49380653) (2026-08-20)
-- **[Show HN: Openleetcode – Local LeetCode runner where tests live in the repo](https://github.com/therepanic/openleetcode)** — 61 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49347178) (2026-08-18)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
