@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-01 12:13 UTC._
+_Last checked: 2026-09-02 11:52 UTC._
 
+- **[Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream)** — 218 points, 100 comments on [Show HN](https://news.ycombinator.com/item?id=49524447) (2026-09-01)
 - **[Show HN: SlideOps – slides from a repo that flag when they drift from the code](https://github.com/glukicov/slideops)** — 21 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49508735) (2026-08-31)
 - **[Show HN: 49 IDE – 2D Canvas for Agents](https://github.com/alpbahadur/49-IDE)** — 18 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49514828) (2026-08-31)
 - **[Show HN: Delete yourself from data brokers without a subscription](https://github.com/k7cfo/remove-your-data)** — 25 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=49493881) (2026-08-29)
@@ -44,7 +45,6 @@ _Last checked: 2026-09-01 12:13 UTC._
 - **[Show HN: Screen memory without screenshots, just text to Markdown](https://github.com/dragthelake/ambient-context)** — 31 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49429095) (2026-08-25)
 - **[Show HN: Zcomplete – Shell Typo Correction](https://github.com/omarfakih1/zcomplete)** — 16 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49392677) (2026-08-21)
 - **[Show HN: Proliferate- open-source, self-hostable Codex for any coding agent](https://github.com/proliferate-ai/proliferate)** — 39 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49390739) (2026-08-21)
-- **[Show HN: A desktop fly drawn to the scent of vibecode](https://github.com/kulikov0/desktop-vibe-fly)** — 19 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49389466) (2026-08-21)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
