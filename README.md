@@ -18,7 +18,7 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-03 11:50 UTC._
+_Last checked: 2026-09-04 11:53 UTC._
 
 - **[Show HN: ZSvirt – A lightweight, scalable open source virtualization platform](https://github.com/ZSvirt/zsvirt)** — 71 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49536562) (2026-09-02)
 - **[Show HN: I built a version of Omarchy that runs on Apple Silicon](https://github.com/themartiano/try-omarchy)** — 20 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49539913) (2026-09-02)
