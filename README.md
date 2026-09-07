@@ -18,8 +18,12 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-06 11:26 UTC._
+_Last checked: 2026-09-07 13:08 UTC._
 
+- **[Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)** — 93 points, 31 comments on [Show HN](https://news.ycombinator.com/item?id=49590738) (2026-09-06)
+- **[Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS](https://github.com/scastiel/kado)** — 75 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49586902) (2026-09-06)
+- **[Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim)** — 52 points, 17 comments on [Show HN](https://news.ycombinator.com/item?id=49594008) (2026-09-07)
+- **[Show HN: HyperCard to HTML Converter](https://github.com/stachon/hc2html)** — 15 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49577943) (2026-09-05)
 - **[Show HN: ZSvirt – A lightweight, scalable open source virtualization platform](https://github.com/ZSvirt/zsvirt)** — 71 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49536562) (2026-09-02)
 - **[Show HN: I built a version of Omarchy that runs on Apple Silicon](https://github.com/themartiano/try-omarchy)** — 20 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49539913) (2026-09-02)
 - **[Show HN: Aura – a Rust agent that investigates and fixes production incidents](https://github.com/mezmo/aura)** — 20 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49538195) (2026-09-02)
@@ -41,10 +45,6 @@ _Last checked: 2026-09-06 11:26 UTC._
 - **[Show HN: TexLite – A lightweight self-hosted LaTeX workspace](https://github.com/SWUFE-DB-Group/TexLite)** — 21 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49450500) (2026-08-26)
 - **[Show HN: LatticeDB – Like SQLite but for graph databases](https://github.com/jeffhajewski/latticedb)** — 143 points, 38 comments on [Show HN](https://news.ycombinator.com/item?id=49437049) (2026-08-25)
 - **[Show HN: I made a Raspberry with Qwen my local car AI](https://github.com/ThinkOffApp/CarWatch)** — 129 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=49435675) (2026-08-25)
-- **[Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain)** — 83 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49441375) (2026-08-25)
-- **[Show HN: Lightweight system monitor for Linux VPS written in Go](https://github.com/leodeim/vpsmon)** — 56 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49437361) (2026-08-25)
-- **[Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon](https://github.com/getkern/kern)** — 58 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49423927) (2026-08-24)
-- **[Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3](https://github.com/ovenpasta/adi2)** — 49 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49422243) (2026-08-24)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
