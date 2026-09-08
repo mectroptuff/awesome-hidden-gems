@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-07 13:08 UTC._
+_Last checked: 2026-09-08 11:53 UTC._
 
+- **[Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)** — 157 points, 46 comments on [Show HN](https://news.ycombinator.com/item?id=49603546) (2026-09-07)
+- **[Show HN: Wg-admin – web UI for an existing WireGuard host](https://github.com/logimaxx/wg-admin)** — 29 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49600269) (2026-09-07)
 - **[Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)** — 93 points, 31 comments on [Show HN](https://news.ycombinator.com/item?id=49590738) (2026-09-06)
 - **[Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS](https://github.com/scastiel/kado)** — 75 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49586902) (2026-09-06)
 - **[Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim)** — 52 points, 17 comments on [Show HN](https://news.ycombinator.com/item?id=49594008) (2026-09-07)
@@ -43,8 +45,6 @@ _Last checked: 2026-09-07 13:08 UTC._
 - **[Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)](https://github.com/issacnitin/RealDiff)** — 34 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49464459) (2026-08-27)
 - **[Show HN: Restoredrill – proves your Postgres backups restore](https://github.com/ahmadpiran/restoredrill)** — 30 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49465291) (2026-08-27)
 - **[Show HN: TexLite – A lightweight self-hosted LaTeX workspace](https://github.com/SWUFE-DB-Group/TexLite)** — 21 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49450500) (2026-08-26)
-- **[Show HN: LatticeDB – Like SQLite but for graph databases](https://github.com/jeffhajewski/latticedb)** — 143 points, 38 comments on [Show HN](https://news.ycombinator.com/item?id=49437049) (2026-08-25)
-- **[Show HN: I made a Raspberry with Qwen my local car AI](https://github.com/ThinkOffApp/CarWatch)** — 129 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=49435675) (2026-08-25)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
