@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-08 11:53 UTC._
+_Last checked: 2026-09-09 12:03 UTC._
 
+- **[Show HN: DriveSync – fast Git-styled Google Drive sync CLI](https://github.com/scaleninja/drivesync)** — 20 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=49609784) (2026-09-08)
 - **[Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)** — 157 points, 46 comments on [Show HN](https://news.ycombinator.com/item?id=49603546) (2026-09-07)
 - **[Show HN: Wg-admin – web UI for an existing WireGuard host](https://github.com/logimaxx/wg-admin)** — 29 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49600269) (2026-09-07)
 - **[Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)** — 93 points, 31 comments on [Show HN](https://news.ycombinator.com/item?id=49590738) (2026-09-06)
@@ -44,7 +45,6 @@ _Last checked: 2026-09-08 11:53 UTC._
 - **[Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why](https://github.com/kelviq/tare)** — 34 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49467551) (2026-08-27)
 - **[Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)](https://github.com/issacnitin/RealDiff)** — 34 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49464459) (2026-08-27)
 - **[Show HN: Restoredrill – proves your Postgres backups restore](https://github.com/ahmadpiran/restoredrill)** — 30 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49465291) (2026-08-27)
-- **[Show HN: TexLite – A lightweight self-hosted LaTeX workspace](https://github.com/SWUFE-DB-Group/TexLite)** — 21 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49450500) (2026-08-26)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
