@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-09 12:03 UTC._
+_Last checked: 2026-09-10 11:57 UTC._
 
+- **[Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49630606) (2026-09-09)
+- **[Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger)** — 45 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49627646) (2026-09-09)
+- **[Show HN: VolAnti – Open-source acoustic detector for fibre-optic FPV drones](https://github.com/agamrossen/VolAnti)** — 16 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49618955) (2026-09-09)
 - **[Show HN: DriveSync – fast Git-styled Google Drive sync CLI](https://github.com/scaleninja/drivesync)** — 20 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=49609784) (2026-09-08)
 - **[Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)** — 157 points, 46 comments on [Show HN](https://news.ycombinator.com/item?id=49603546) (2026-09-07)
 - **[Show HN: Wg-admin – web UI for an existing WireGuard host](https://github.com/logimaxx/wg-admin)** — 29 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49600269) (2026-09-07)
@@ -42,9 +45,6 @@ _Last checked: 2026-09-09 12:03 UTC._
 - **[Show HN: Watches user sessions, finds bugs that matter, and fixes them](https://github.com/opslane/opslane)** — 34 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49466704) (2026-08-27)
 - **[Show HN: IndexFlow – Open-source indexing infrastructure built with Rust](https://github.com/IndexFlowing/IndexFlow-core)** — 22 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49473767) (2026-08-28)
 - **[Show HN: FnScribe – Open-source, offline dictation for macOS](https://github.com/AlgorithmicResearchGroup/fnscribe)** — 20 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49475159) (2026-08-28)
-- **[Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why](https://github.com/kelviq/tare)** — 34 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49467551) (2026-08-27)
-- **[Show HN: RealDiff – runtime behavior diffing for pull requests (six languages)](https://github.com/issacnitin/RealDiff)** — 34 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49464459) (2026-08-27)
-- **[Show HN: Restoredrill – proves your Postgres backups restore](https://github.com/ahmadpiran/restoredrill)** — 30 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49465291) (2026-08-27)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
