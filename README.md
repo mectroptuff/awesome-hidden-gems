@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-10 11:57 UTC._
+_Last checked: 2026-09-11 11:56 UTC._
 
+- **[Show HN: Filament – Fast data movement engine in Go](https://github.com/galaxy-io/filament)** — 30 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49611112) (2026-09-08)
 - **[Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49630606) (2026-09-09)
 - **[Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger)** — 45 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49627646) (2026-09-09)
 - **[Show HN: VolAnti – Open-source acoustic detector for fibre-optic FPV drones](https://github.com/agamrossen/VolAnti)** — 16 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49618955) (2026-09-09)
@@ -44,7 +45,6 @@ _Last checked: 2026-09-10 11:57 UTC._
 - **[Show HN: Yet another minimal and lightweight terminal multiplexer written in Go.](https://github.com/patriceckhart/hrdx)** — 34 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49468507) (2026-08-27)
 - **[Show HN: Watches user sessions, finds bugs that matter, and fixes them](https://github.com/opslane/opslane)** — 34 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49466704) (2026-08-27)
 - **[Show HN: IndexFlow – Open-source indexing infrastructure built with Rust](https://github.com/IndexFlowing/IndexFlow-core)** — 22 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49473767) (2026-08-28)
-- **[Show HN: FnScribe – Open-source, offline dictation for macOS](https://github.com/AlgorithmicResearchGroup/fnscribe)** — 20 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49475159) (2026-08-28)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
