@@ -18,8 +18,14 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-11 11:56 UTC._
+_Last checked: 2026-09-12 11:23 UTC._
 
+- **[Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)** — 87 points, 45 comments on [Show HN](https://news.ycombinator.com/item?id=49660676) (2026-09-11)
+- **[Show HN: Toast, a beautiful by default in terminal IDE](https://github.com/paradise-runner/toast)** — 76 points, 87 comments on [Show HN](https://news.ycombinator.com/item?id=49662496) (2026-09-11)
+- **[Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)** — 62 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49665864) (2026-09-11)
+- **[Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp)** — 36 points, 20 comments on [Show HN](https://news.ycombinator.com/item?id=49667188) (2026-09-12)
+- **[Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you](https://github.com/Field-Logic-Ltd/ClaudeStatsBar)** — 17 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49658328) (2026-09-11)
+- **[Show HN: Open-source simulation testing infra for voice agents](https://github.com/egma-ai/egma)** — 15 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49646928) (2026-09-10)
 - **[Show HN: Filament – Fast data movement engine in Go](https://github.com/galaxy-io/filament)** — 30 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49611112) (2026-09-08)
 - **[Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49630606) (2026-09-09)
 - **[Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger)** — 45 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49627646) (2026-09-09)
@@ -39,12 +45,6 @@ _Last checked: 2026-09-11 11:56 UTC._
 - **[Show HN: 49 IDE – 2D Canvas for Agents](https://github.com/alpbahadur/49-IDE)** — 18 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49514828) (2026-08-31)
 - **[Show HN: Delete yourself from data brokers without a subscription](https://github.com/k7cfo/remove-your-data)** — 25 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=49493881) (2026-08-29)
 - **[Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website](https://github.com/AniketWathore/bolnee-chat)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49497227) (2026-08-30)
-- **[Show HN: Conduct, open-source guardrails for LLM and MCP tool calls](https://github.com/sseshachala/conductai)** — 22 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49483173) (2026-08-28)
-- **[Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE)** — 212 points, 54 comments on [Show HN](https://news.ycombinator.com/item?id=49471965) (2026-08-27)
-- **[Show HN: We built open OpenRouter that turns usage into a better model](https://github.com/experientiallabs/experiential)** — 205 points, 44 comments on [Show HN](https://news.ycombinator.com/item?id=49471407) (2026-08-27)
-- **[Show HN: Yet another minimal and lightweight terminal multiplexer written in Go.](https://github.com/patriceckhart/hrdx)** — 34 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=49468507) (2026-08-27)
-- **[Show HN: Watches user sessions, finds bugs that matter, and fixes them](https://github.com/opslane/opslane)** — 34 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49466704) (2026-08-27)
-- **[Show HN: IndexFlow – Open-source indexing infrastructure built with Rust](https://github.com/IndexFlowing/IndexFlow-core)** — 22 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49473767) (2026-08-28)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
