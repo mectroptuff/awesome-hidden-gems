@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-13 12:26 UTC._
+_Last checked: 2026-09-14 13:29 UTC._
 
+- **[Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg)** — 58 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49690943) (2026-09-14)
+- **[Show HN: Kinesis – Control your Mac with the Meta Neural Band](https://github.com/callbacked/kinesis)** — 48 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49695408) (2026-09-14)
 - **[Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)** — 87 points, 45 comments on [Show HN](https://news.ycombinator.com/item?id=49660676) (2026-09-11)
 - **[Show HN: Toast, a beautiful by default in terminal IDE](https://github.com/paradise-runner/toast)** — 76 points, 87 comments on [Show HN](https://news.ycombinator.com/item?id=49662496) (2026-09-11)
 - **[Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)** — 62 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49665864) (2026-09-11)
@@ -43,8 +45,6 @@ _Last checked: 2026-09-13 12:26 UTC._
 - **[Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream)** — 218 points, 100 comments on [Show HN](https://news.ycombinator.com/item?id=49524447) (2026-09-01)
 - **[Show HN: SlideOps – slides from a repo that flag when they drift from the code](https://github.com/glukicov/slideops)** — 21 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49508735) (2026-08-31)
 - **[Show HN: 49 IDE – 2D Canvas for Agents](https://github.com/alpbahadur/49-IDE)** — 18 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49514828) (2026-08-31)
-- **[Show HN: Delete yourself from data brokers without a subscription](https://github.com/k7cfo/remove-your-data)** — 25 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=49493881) (2026-08-29)
-- **[Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website](https://github.com/AniketWathore/bolnee-chat)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49497227) (2026-08-30)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
