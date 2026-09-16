@@ -18,8 +18,12 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-15 12:21 UTC._
+_Last checked: 2026-09-16 12:18 UTC._
 
+- **[Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)** — 1719 points, 212 comments on [Show HN](https://news.ycombinator.com/item?id=49711544) (2026-09-15)
+- **[Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel)** — 51 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49712621) (2026-09-15)
+- **[Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks](https://github.com/ordewell/ordewell)** — 50 points, 33 comments on [Show HN](https://news.ycombinator.com/item?id=49712276) (2026-09-15)
+- **[Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot)** — 49 points, 31 comments on [Show HN](https://news.ycombinator.com/item?id=49713894) (2026-09-15)
 - **[Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)** — 78 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49705442) (2026-09-14)
 - **[Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer](https://github.com/Ibtisam-Mohammad/Fly.exe)** — 23 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49699075) (2026-09-14)
 - **[Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg)** — 58 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49690943) (2026-09-14)
@@ -41,10 +45,6 @@ _Last checked: 2026-09-15 12:21 UTC._
 - **[Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS](https://github.com/scastiel/kado)** — 75 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49586902) (2026-09-06)
 - **[Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim)** — 52 points, 17 comments on [Show HN](https://news.ycombinator.com/item?id=49594008) (2026-09-07)
 - **[Show HN: HyperCard to HTML Converter](https://github.com/stachon/hc2html)** — 15 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49577943) (2026-09-05)
-- **[Show HN: ZSvirt – A lightweight, scalable open source virtualization platform](https://github.com/ZSvirt/zsvirt)** — 71 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49536562) (2026-09-02)
-- **[Show HN: I built a version of Omarchy that runs on Apple Silicon](https://github.com/themartiano/try-omarchy)** — 20 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49539913) (2026-09-02)
-- **[Show HN: Aura – a Rust agent that investigates and fixes production incidents](https://github.com/mezmo/aura)** — 20 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49538195) (2026-09-02)
-- **[Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream)** — 218 points, 100 comments on [Show HN](https://news.ycombinator.com/item?id=49524447) (2026-09-01)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
