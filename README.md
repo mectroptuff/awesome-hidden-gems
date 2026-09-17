@@ -18,7 +18,7 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-16 12:18 UTC._
+_Last checked: 2026-09-17 12:19 UTC._
 
 - **[Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)** — 1719 points, 212 comments on [Show HN](https://news.ycombinator.com/item?id=49711544) (2026-09-15)
 - **[Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel)** — 51 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49712621) (2026-09-15)
