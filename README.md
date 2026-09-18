@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-17 12:19 UTC._
+_Last checked: 2026-09-18 11:59 UTC._
 
+- **[Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot)** — 18 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49743478) (2026-09-17)
 - **[Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)** — 1719 points, 212 comments on [Show HN](https://news.ycombinator.com/item?id=49711544) (2026-09-15)
 - **[Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel)** — 51 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49712621) (2026-09-15)
 - **[Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks](https://github.com/ordewell/ordewell)** — 50 points, 33 comments on [Show HN](https://news.ycombinator.com/item?id=49712276) (2026-09-15)
@@ -44,7 +45,6 @@ _Last checked: 2026-09-17 12:19 UTC._
 - **[Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador)** — 93 points, 31 comments on [Show HN](https://news.ycombinator.com/item?id=49590738) (2026-09-06)
 - **[Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS](https://github.com/scastiel/kado)** — 75 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=49586902) (2026-09-06)
 - **[Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs](https://github.com/timgordontg/engrim)** — 52 points, 17 comments on [Show HN](https://news.ycombinator.com/item?id=49594008) (2026-09-07)
-- **[Show HN: HyperCard to HTML Converter](https://github.com/stachon/hc2html)** — 15 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49577943) (2026-09-05)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
