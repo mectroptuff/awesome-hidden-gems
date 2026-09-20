@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-19 11:42 UTC._
+_Last checked: 2026-09-20 11:54 UTC._
 
+- **[Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua)** — 80 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=49767564) (2026-09-19)
+- **[Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass)** — 27 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49744174) (2026-09-17)
+- **[Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO)** — 16 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49771118) (2026-09-19)
 - **[Show HN: Microsoft Office running with Wine on Linux with no virtualization](https://github.com/Tombert/office365_flake)** — 87 points, 84 comments on [Show HN](https://news.ycombinator.com/item?id=49746401) (2026-09-17)
 - **[Show HN: Jeff – A read-only CLI for semantic code review using Jev](https://github.com/Alurith/jeff)** — 23 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49757757) (2026-09-18)
 - **[Show HN: OJ – A drop-in replacement for Vite in Rust](https://github.com/lovablelabs/oj)** — 17 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49746713) (2026-09-17)
@@ -42,9 +45,6 @@ _Last checked: 2026-09-19 11:42 UTC._
 - **[Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49630606) (2026-09-09)
 - **[Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger)** — 45 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49627646) (2026-09-09)
 - **[Show HN: VolAnti – Open-source acoustic detector for fibre-optic FPV drones](https://github.com/agamrossen/VolAnti)** — 16 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49618955) (2026-09-09)
-- **[Show HN: DriveSync – fast Git-styled Google Drive sync CLI](https://github.com/scaleninja/drivesync)** — 20 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=49609784) (2026-09-08)
-- **[Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)** — 157 points, 46 comments on [Show HN](https://news.ycombinator.com/item?id=49603546) (2026-09-07)
-- **[Show HN: Wg-admin – web UI for an existing WireGuard host](https://github.com/logimaxx/wg-admin)** — 29 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49600269) (2026-09-07)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
