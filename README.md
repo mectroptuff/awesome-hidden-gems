@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-20 11:54 UTC._
+_Last checked: 2026-09-21 13:28 UTC._
 
+- **[Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI)** — 175 points, 33 comments on [Show HN](https://news.ycombinator.com/item?id=49783133) (2026-09-21)
+- **[Show HN: jevals – replacing LLM judges with typed Jev decisions](https://github.com/openlayer-ai/jevals)** — 29 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49780849) (2026-09-20)
+- **[Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up)** — 16 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49781727) (2026-09-21)
 - **[Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua)** — 80 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=49767564) (2026-09-19)
 - **[Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass)** — 27 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49744174) (2026-09-17)
 - **[Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO)** — 16 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49771118) (2026-09-19)
@@ -42,9 +45,6 @@ _Last checked: 2026-09-20 11:54 UTC._
 - **[Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you](https://github.com/Field-Logic-Ltd/ClaudeStatsBar)** — 17 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49658328) (2026-09-11)
 - **[Show HN: Open-source simulation testing infra for voice agents](https://github.com/egma-ai/egma)** — 15 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49646928) (2026-09-10)
 - **[Show HN: Filament – Fast data movement engine in Go](https://github.com/galaxy-io/filament)** — 30 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49611112) (2026-09-08)
-- **[Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](https://github.com/OtoDock/oto-dock)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49630606) (2026-09-09)
-- **[Show HN: Geiger – See every AI agent on your machine and what it can touch](https://github.com/Atomburstofficial/geiger)** — 45 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49627646) (2026-09-09)
-- **[Show HN: VolAnti – Open-source acoustic detector for fibre-optic FPV drones](https://github.com/agamrossen/VolAnti)** — 16 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49618955) (2026-09-09)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
