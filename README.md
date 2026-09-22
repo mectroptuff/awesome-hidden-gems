@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-21 13:28 UTC._
+_Last checked: 2026-09-22 12:13 UTC._
 
+- **[Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory)** — 62 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49786419) (2026-09-21)
+- **[Show HN: Foremerge – Catch intent conflicts between parallel coding agents](https://github.com/naw103/foremerge)** — 43 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=49789356) (2026-09-21)
 - **[Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI)** — 175 points, 33 comments on [Show HN](https://news.ycombinator.com/item?id=49783133) (2026-09-21)
 - **[Show HN: jevals – replacing LLM judges with typed Jev decisions](https://github.com/openlayer-ai/jevals)** — 29 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49780849) (2026-09-20)
 - **[Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up)** — 16 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49781727) (2026-09-21)
@@ -43,8 +45,6 @@ _Last checked: 2026-09-21 13:28 UTC._
 - **[Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)** — 62 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49665864) (2026-09-11)
 - **[Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp)** — 36 points, 20 comments on [Show HN](https://news.ycombinator.com/item?id=49667188) (2026-09-12)
 - **[Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you](https://github.com/Field-Logic-Ltd/ClaudeStatsBar)** — 17 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49658328) (2026-09-11)
-- **[Show HN: Open-source simulation testing infra for voice agents](https://github.com/egma-ai/egma)** — 15 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49646928) (2026-09-10)
-- **[Show HN: Filament – Fast data movement engine in Go](https://github.com/galaxy-io/filament)** — 30 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49611112) (2026-09-08)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
