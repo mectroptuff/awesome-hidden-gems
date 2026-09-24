@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-23 12:26 UTC._
+_Last checked: 2026-09-24 12:25 UTC._
 
+- **[Show HN: Conway's Game of Life in boot sector](https://github.com/0xAX/BootLife)** — 27 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49791296) (2026-09-21)
 - **[Show HN: Npunlock – Run custom C kernels for Intel NPUs](https://github.com/hsfzxjy/npunlock)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49800513) (2026-09-22)
 - **[Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models](https://github.com/General-Instinct/InstinctFlash)** — 24 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49802789) (2026-09-22)
 - **[Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory)** — 62 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49786419) (2026-09-21)
@@ -44,7 +45,6 @@ _Last checked: 2026-09-23 12:26 UTC._
 - **[Show HN: Kinesis – Control your Mac with the Meta Neural Band](https://github.com/callbacked/kinesis)** — 48 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49695408) (2026-09-14)
 - **[Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)** — 87 points, 45 comments on [Show HN](https://news.ycombinator.com/item?id=49660676) (2026-09-11)
 - **[Show HN: Toast, a beautiful by default in terminal IDE](https://github.com/paradise-runner/toast)** — 76 points, 87 comments on [Show HN](https://news.ycombinator.com/item?id=49662496) (2026-09-11)
-- **[Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ)** — 62 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=49665864) (2026-09-11)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
