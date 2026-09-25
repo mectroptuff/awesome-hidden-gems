@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-24 12:25 UTC._
+_Last checked: 2026-09-25 12:25 UTC._
 
+- **[Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)** — 332 points, 120 comments on [Show HN](https://news.ycombinator.com/item?id=49833867) (2026-09-24)
+- **[Show HN: Treepeat – Code similarity detection using Tree-sitter](https://github.com/dsummersl/treepeat)** — 57 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49804359) (2026-09-22)
+- **[Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun)** — 44 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49821438) (2026-09-23)
 - **[Show HN: Conway's Game of Life in boot sector](https://github.com/0xAX/BootLife)** — 27 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49791296) (2026-09-21)
 - **[Show HN: Npunlock – Run custom C kernels for Intel NPUs](https://github.com/hsfzxjy/npunlock)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49800513) (2026-09-22)
 - **[Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models](https://github.com/General-Instinct/InstinctFlash)** — 24 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49802789) (2026-09-22)
@@ -42,9 +45,6 @@ _Last checked: 2026-09-24 12:25 UTC._
 - **[Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)** — 78 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49705442) (2026-09-14)
 - **[Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer](https://github.com/Ibtisam-Mohammad/Fly.exe)** — 23 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49699075) (2026-09-14)
 - **[Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg)** — 58 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49690943) (2026-09-14)
-- **[Show HN: Kinesis – Control your Mac with the Meta Neural Band](https://github.com/callbacked/kinesis)** — 48 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49695408) (2026-09-14)
-- **[Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)** — 87 points, 45 comments on [Show HN](https://news.ycombinator.com/item?id=49660676) (2026-09-11)
-- **[Show HN: Toast, a beautiful by default in terminal IDE](https://github.com/paradise-runner/toast)** — 76 points, 87 comments on [Show HN](https://news.ycombinator.com/item?id=49662496) (2026-09-11)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
