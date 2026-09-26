@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-25 12:25 UTC._
+_Last checked: 2026-09-26 11:57 UTC._
 
+- **[Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer)** — 33 points, 11 comments on [Show HN](https://news.ycombinator.com/item?id=49842596) (2026-09-25)
 - **[Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)** — 332 points, 120 comments on [Show HN](https://news.ycombinator.com/item?id=49833867) (2026-09-24)
 - **[Show HN: Treepeat – Code similarity detection using Tree-sitter](https://github.com/dsummersl/treepeat)** — 57 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49804359) (2026-09-22)
 - **[Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun)** — 44 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49821438) (2026-09-23)
@@ -44,7 +45,6 @@ _Last checked: 2026-09-25 12:25 UTC._
 - **[Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot)** — 49 points, 31 comments on [Show HN](https://news.ycombinator.com/item?id=49713894) (2026-09-15)
 - **[Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)** — 78 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49705442) (2026-09-14)
 - **[Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer](https://github.com/Ibtisam-Mohammad/Fly.exe)** — 23 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49699075) (2026-09-14)
-- **[Show HN: Is It Greg?](https://github.com/antoineleclair/is-it-greg)** — 58 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49690943) (2026-09-14)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
