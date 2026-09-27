@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-26 11:57 UTC._
+_Last checked: 2026-09-27 12:35 UTC._
 
+- **[Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)** — 331 points, 90 comments on [Show HN](https://news.ycombinator.com/item?id=49858513) (2026-09-26)
+- **[Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills)** — 73 points, 53 comments on [Show HN](https://news.ycombinator.com/item?id=49857528) (2026-09-26)
+- **[Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem](https://github.com/stormj-UH/spivak-lean)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49858409) (2026-09-26)
 - **[Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer)** — 33 points, 11 comments on [Show HN](https://news.ycombinator.com/item?id=49842596) (2026-09-25)
 - **[Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)** — 332 points, 120 comments on [Show HN](https://news.ycombinator.com/item?id=49833867) (2026-09-24)
 - **[Show HN: Treepeat – Code similarity detection using Tree-sitter](https://github.com/dsummersl/treepeat)** — 57 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49804359) (2026-09-22)
@@ -42,9 +45,6 @@ _Last checked: 2026-09-26 11:57 UTC._
 - **[Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)** — 1719 points, 212 comments on [Show HN](https://news.ycombinator.com/item?id=49711544) (2026-09-15)
 - **[Show HN: Panel – A research workspace where the agent can build its own panes](https://github.com/greentfrapp/panel)** — 51 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49712621) (2026-09-15)
 - **[Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks](https://github.com/ordewell/ordewell)** — 50 points, 33 comments on [Show HN](https://news.ycombinator.com/item?id=49712276) (2026-09-15)
-- **[Show HN: Pizza Bot – An inbox for AI agents that work in the background](https://github.com/pizza-bot-app/pizza-bot)** — 49 points, 31 comments on [Show HN](https://news.ycombinator.com/item?id=49713894) (2026-09-15)
-- **[Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)** — 78 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49705442) (2026-09-14)
-- **[Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer](https://github.com/Ibtisam-Mohammad/Fly.exe)** — 23 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49699075) (2026-09-14)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
