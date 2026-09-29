@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-28 14:43 UTC._
+_Last checked: 2026-09-29 13:33 UTC._
 
+- **[Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven)** — 15 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49890647) (2026-09-29)
 - **[Show HN: Hntui – A TUI for Hacker News](https://github.com/ahmd-sh/hntui)** — 62 points, 30 comments on [Show HN](https://news.ycombinator.com/item?id=49876760) (2026-09-28)
 - **[Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page](https://github.com/seamusc/papermono-shopping-list)** — 31 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49875801) (2026-09-28)
 - **[Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)** — 331 points, 90 comments on [Show HN](https://news.ycombinator.com/item?id=49858513) (2026-09-26)
@@ -44,7 +45,6 @@ _Last checked: 2026-09-28 14:43 UTC._
 - **[Show HN: Jeff – A read-only CLI for semantic code review using Jev](https://github.com/Alurith/jeff)** — 23 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49757757) (2026-09-18)
 - **[Show HN: OJ – A drop-in replacement for Vite in Rust](https://github.com/lovablelabs/oj)** — 17 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49746713) (2026-09-17)
 - **[Show HN: AutoBot – live voice control for long-running AI work](https://github.com/demeyer1/Autobot)** — 18 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49743478) (2026-09-17)
-- **[Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)** — 1719 points, 212 comments on [Show HN](https://news.ycombinator.com/item?id=49711544) (2026-09-15)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
