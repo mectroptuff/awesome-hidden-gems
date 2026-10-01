@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-09-30 13:11 UTC._
+_Last checked: 2026-10-01 14:01 UTC._
 
+- **[Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra)** — 26 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49916997) (2026-10-01)
+- **[Show HN: Corral – Kill every command your agent starts](https://github.com/Cardinal44/corral)** — 19 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49886422) (2026-09-29)
 - **[Show HN: TurboGPT: train 22KiB transformer in 13s](https://github.com/lostmsu/TurboGPT)** — 52 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49898931) (2026-09-29)
 - **[Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality](https://github.com/ciromattia/kcc)** — 37 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49879758) (2026-09-28)
 - **[Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven)** — 15 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49890647) (2026-09-29)
@@ -43,8 +45,6 @@ _Last checked: 2026-09-30 13:11 UTC._
 - **[Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua)** — 80 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=49767564) (2026-09-19)
 - **[Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass)** — 27 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49744174) (2026-09-17)
 - **[Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO)** — 16 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49771118) (2026-09-19)
-- **[Show HN: Microsoft Office running with Wine on Linux with no virtualization](https://github.com/Tombert/office365_flake)** — 87 points, 84 comments on [Show HN](https://news.ycombinator.com/item?id=49746401) (2026-09-17)
-- **[Show HN: Jeff – A read-only CLI for semantic code review using Jev](https://github.com/Alurith/jeff)** — 23 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49757757) (2026-09-18)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
