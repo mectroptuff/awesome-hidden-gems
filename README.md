@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-01 14:01 UTC._
+_Last checked: 2026-10-02 13:21 UTC._
 
+- **[Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus)** — 82 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49926773) (2026-10-01)
+- **[Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)** — 53 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49931031) (2026-10-02)
+- **[Show HN: Engrams, an open source alternative to Devin](https://github.com/cortexapps/engrams)** — 17 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49923064) (2026-10-01)
 - **[Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra)** — 26 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49916997) (2026-10-01)
 - **[Show HN: Corral – Kill every command your agent starts](https://github.com/Cardinal44/corral)** — 19 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49886422) (2026-09-29)
 - **[Show HN: TurboGPT: train 22KiB transformer in 13s](https://github.com/lostmsu/TurboGPT)** — 52 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49898931) (2026-09-29)
@@ -42,9 +45,6 @@ _Last checked: 2026-10-01 14:01 UTC._
 - **[Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI)** — 175 points, 33 comments on [Show HN](https://news.ycombinator.com/item?id=49783133) (2026-09-21)
 - **[Show HN: jevals – replacing LLM judges with typed Jev decisions](https://github.com/openlayer-ai/jevals)** — 29 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49780849) (2026-09-20)
 - **[Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up)** — 16 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49781727) (2026-09-21)
-- **[Show HN: CUA-S1 – A System One Model for Computer Use](https://github.com/trycua/cua)** — 80 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=49767564) (2026-09-19)
-- **[Show HN: I wrote a custom assembler for CHIP-8 in C++](https://github.com/Tackx/c8-ass)** — 27 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49744174) (2026-09-17)
-- **[Show HN: I created an open source locally usable full fledged AI platform](https://github.com/theguysudo/ENZO)** — 16 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49771118) (2026-09-19)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
