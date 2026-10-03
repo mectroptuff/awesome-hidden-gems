@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-02 13:21 UTC._
+_Last checked: 2026-10-03 12:08 UTC._
 
+- **[Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)** — 119 points, 46 comments on [Show HN](https://news.ycombinator.com/item?id=49937916) (2026-10-02)
+- **[Show HN: Pyxel – A Python retro game engine with built-in art and sound editors](https://github.com/kitao/pyxel)** — 87 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=49928215) (2026-10-01)
+- **[Show HN: Perspica – A semantic diff for reviewing code](https://github.com/sshah03/perspica)** — 15 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49914005) (2026-09-30)
 - **[Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus)** — 82 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49926773) (2026-10-01)
 - **[Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)** — 53 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49931031) (2026-10-02)
 - **[Show HN: Engrams, an open source alternative to Devin](https://github.com/cortexapps/engrams)** — 17 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49923064) (2026-10-01)
@@ -42,9 +45,6 @@ _Last checked: 2026-10-02 13:21 UTC._
 - **[Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models](https://github.com/General-Instinct/InstinctFlash)** — 24 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49802789) (2026-09-22)
 - **[Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory)** — 62 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49786419) (2026-09-21)
 - **[Show HN: Foremerge – Catch intent conflicts between parallel coding agents](https://github.com/naw103/foremerge)** — 43 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=49789356) (2026-09-21)
-- **[Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM](https://github.com/volotat/mini-AGI)** — 175 points, 33 comments on [Show HN](https://news.ycombinator.com/item?id=49783133) (2026-09-21)
-- **[Show HN: jevals – replacing LLM judges with typed Jev decisions](https://github.com/openlayer-ai/jevals)** — 29 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=49780849) (2026-09-20)
-- **[Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter](https://github.com/behdad/gdocs-me-up)** — 16 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=49781727) (2026-09-21)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
