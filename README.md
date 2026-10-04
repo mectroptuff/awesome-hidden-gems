@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-03 12:08 UTC._
+_Last checked: 2026-10-04 12:56 UTC._
 
+- **[Show HN: Graphene – Data analysis toolkit for your coding agent](https://github.com/graphene-data/graphene)** — 31 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49927295) (2026-10-01)
+- **[Show HN: Use all Codex Plugins inside Pi](https://github.com/wileai/pi-codex-connectors)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49929381) (2026-10-02)
 - **[Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)** — 119 points, 46 comments on [Show HN](https://news.ycombinator.com/item?id=49937916) (2026-10-02)
 - **[Show HN: Pyxel – A Python retro game engine with built-in art and sound editors](https://github.com/kitao/pyxel)** — 87 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=49928215) (2026-10-01)
 - **[Show HN: Perspica – A semantic diff for reviewing code](https://github.com/sshah03/perspica)** — 15 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49914005) (2026-09-30)
@@ -43,8 +45,6 @@ _Last checked: 2026-10-03 12:08 UTC._
 - **[Show HN: Conway's Game of Life in boot sector](https://github.com/0xAX/BootLife)** — 27 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49791296) (2026-09-21)
 - **[Show HN: Npunlock – Run custom C kernels for Intel NPUs](https://github.com/hsfzxjy/npunlock)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49800513) (2026-09-22)
 - **[Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models](https://github.com/General-Instinct/InstinctFlash)** — 24 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49802789) (2026-09-22)
-- **[Show HN: Lossless-memory – a personal AI memory that never summarizes](https://github.com/aru-labs/lossless-memory)** — 62 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=49786419) (2026-09-21)
-- **[Show HN: Foremerge – Catch intent conflicts between parallel coding agents](https://github.com/naw103/foremerge)** — 43 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=49789356) (2026-09-21)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
