@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-04 12:56 UTC._
+_Last checked: 2026-10-05 15:24 UTC._
 
+- **[Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)** — 156 points, 71 comments on [Show HN](https://news.ycombinator.com/item?id=49952111) (2026-10-04)
 - **[Show HN: Graphene – Data analysis toolkit for your coding agent](https://github.com/graphene-data/graphene)** — 31 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49927295) (2026-10-01)
 - **[Show HN: Use all Codex Plugins inside Pi](https://github.com/wileai/pi-codex-connectors)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49929381) (2026-10-02)
 - **[Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)** — 119 points, 46 comments on [Show HN](https://news.ycombinator.com/item?id=49937916) (2026-10-02)
@@ -44,7 +45,6 @@ _Last checked: 2026-10-04 12:56 UTC._
 - **[Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun)** — 44 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49821438) (2026-09-23)
 - **[Show HN: Conway's Game of Life in boot sector](https://github.com/0xAX/BootLife)** — 27 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49791296) (2026-09-21)
 - **[Show HN: Npunlock – Run custom C kernels for Intel NPUs](https://github.com/hsfzxjy/npunlock)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49800513) (2026-09-22)
-- **[Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models](https://github.com/General-Instinct/InstinctFlash)** — 24 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=49802789) (2026-09-22)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
