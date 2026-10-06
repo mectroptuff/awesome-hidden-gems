@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-05 15:24 UTC._
+_Last checked: 2026-10-06 13:46 UTC._
 
+- **[Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear](https://github.com/rsutcliffe/nightwatch)** — 82 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=49952148) (2026-10-04)
+- **[Show HN: Minigraf – An embedded, bi-temporal graph database in Rust](https://github.com/project-minigraf/minigraf)** — 35 points, 28 comments on [Show HN](https://news.ycombinator.com/item?id=49963394) (2026-10-05)
 - **[Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)** — 156 points, 71 comments on [Show HN](https://news.ycombinator.com/item?id=49952111) (2026-10-04)
 - **[Show HN: Graphene – Data analysis toolkit for your coding agent](https://github.com/graphene-data/graphene)** — 31 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49927295) (2026-10-01)
 - **[Show HN: Use all Codex Plugins inside Pi](https://github.com/wileai/pi-codex-connectors)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49929381) (2026-10-02)
@@ -43,8 +45,6 @@ _Last checked: 2026-10-05 15:24 UTC._
 - **[Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)** — 332 points, 120 comments on [Show HN](https://news.ycombinator.com/item?id=49833867) (2026-09-24)
 - **[Show HN: Treepeat – Code similarity detection using Tree-sitter](https://github.com/dsummersl/treepeat)** — 57 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49804359) (2026-09-22)
 - **[Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun)** — 44 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49821438) (2026-09-23)
-- **[Show HN: Conway's Game of Life in boot sector](https://github.com/0xAX/BootLife)** — 27 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49791296) (2026-09-21)
-- **[Show HN: Npunlock – Run custom C kernels for Intel NPUs](https://github.com/hsfzxjy/npunlock)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=49800513) (2026-09-22)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
