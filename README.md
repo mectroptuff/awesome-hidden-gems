@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-06 13:46 UTC._
+_Last checked: 2026-10-07 14:03 UTC._
 
+- **[Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart)** — 43 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49979793) (2026-10-06)
+- **[Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse)** — 40 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49987765) (2026-10-07)
 - **[Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear](https://github.com/rsutcliffe/nightwatch)** — 82 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=49952148) (2026-10-04)
 - **[Show HN: Minigraf – An embedded, bi-temporal graph database in Rust](https://github.com/project-minigraf/minigraf)** — 35 points, 28 comments on [Show HN](https://news.ycombinator.com/item?id=49963394) (2026-10-05)
 - **[Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)** — 156 points, 71 comments on [Show HN](https://news.ycombinator.com/item?id=49952111) (2026-10-04)
@@ -43,8 +45,6 @@ _Last checked: 2026-10-06 13:46 UTC._
 - **[Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem](https://github.com/stormj-UH/spivak-lean)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49858409) (2026-09-26)
 - **[Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer)** — 33 points, 11 comments on [Show HN](https://news.ycombinator.com/item?id=49842596) (2026-09-25)
 - **[Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)** — 332 points, 120 comments on [Show HN](https://news.ycombinator.com/item?id=49833867) (2026-09-24)
-- **[Show HN: Treepeat – Code similarity detection using Tree-sitter](https://github.com/dsummersl/treepeat)** — 57 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=49804359) (2026-09-22)
-- **[Show HN: AgentRun: DSL to turn agents into workflows](https://github.com/Parcha-ai/agentrun)** — 44 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49821438) (2026-09-23)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
