@@ -18,8 +18,12 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-07 14:03 UTC._
+_Last checked: 2026-10-08 14:12 UTC._
 
+- **[Show HN: Procinsh – A 3D Linux process inspector](https://github.com/akawashiro/procinsh)** — 54 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49991986) (2026-10-07)
+- **[Show HN: Durable Actors – OSS Durable Objects with configurable compute](https://github.com/TerseAI/durable-actors)** — 41 points, 25 comments on [Show HN](https://news.ycombinator.com/item?id=49980399) (2026-10-06)
+- **[Show HN: Pinrail – A desktop inbox where coding agents wait for your review](https://github.com/forgeplane/pinrail)** — 22 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49995778) (2026-10-07)
+- **[Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler](https://github.com/lowenbjer/claude-terse)** — 20 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49995809) (2026-10-07)
 - **[Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart)** — 43 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49979793) (2026-10-06)
 - **[Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse)** — 40 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49987765) (2026-10-07)
 - **[Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear](https://github.com/rsutcliffe/nightwatch)** — 82 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=49952148) (2026-10-04)
@@ -41,10 +45,6 @@ _Last checked: 2026-10-07 14:03 UTC._
 - **[Show HN: Hntui – A TUI for Hacker News](https://github.com/ahmd-sh/hntui)** — 62 points, 30 comments on [Show HN](https://news.ycombinator.com/item?id=49876760) (2026-09-28)
 - **[Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page](https://github.com/seamusc/papermono-shopping-list)** — 31 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49875801) (2026-09-28)
 - **[Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)** — 331 points, 90 comments on [Show HN](https://news.ycombinator.com/item?id=49858513) (2026-09-26)
-- **[Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills)** — 73 points, 53 comments on [Show HN](https://news.ycombinator.com/item?id=49857528) (2026-09-26)
-- **[Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem](https://github.com/stormj-UH/spivak-lean)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49858409) (2026-09-26)
-- **[Show HN: Agentic CUDA Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer)** — 33 points, 11 comments on [Show HN](https://news.ycombinator.com/item?id=49842596) (2026-09-25)
-- **[Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)** — 332 points, 120 comments on [Show HN](https://news.ycombinator.com/item?id=49833867) (2026-09-24)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
