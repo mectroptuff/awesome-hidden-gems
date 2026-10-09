@@ -18,8 +18,14 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-08 14:12 UTC._
+_Last checked: 2026-10-09 13:59 UTC._
 
+- **[Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)** — 65 points, 52 comments on [Show HN](https://news.ycombinator.com/item?id=50009904) (2026-10-08)
+- **[Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU](https://github.com/ymcrcat/rgpu)** — 51 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49988516) (2026-10-07)
+- **[Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)** — 47 points, 56 comments on [Show HN](https://news.ycombinator.com/item?id=50012199) (2026-10-08)
+- **[Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos)** — 39 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=50014150) (2026-10-09)
+- **[Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA)** — 30 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=50006114) (2026-10-08)
+- **[Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena)** — 23 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50008642) (2026-10-08)
 - **[Show HN: Procinsh – A 3D Linux process inspector](https://github.com/akawashiro/procinsh)** — 54 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49991986) (2026-10-07)
 - **[Show HN: Durable Actors – OSS Durable Objects with configurable compute](https://github.com/TerseAI/durable-actors)** — 41 points, 25 comments on [Show HN](https://news.ycombinator.com/item?id=49980399) (2026-10-06)
 - **[Show HN: Pinrail – A desktop inbox where coding agents wait for your review](https://github.com/forgeplane/pinrail)** — 22 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49995778) (2026-10-07)
@@ -39,12 +45,6 @@ _Last checked: 2026-10-08 14:12 UTC._
 - **[Show HN: Engrams, an open source alternative to Devin](https://github.com/cortexapps/engrams)** — 17 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49923064) (2026-10-01)
 - **[Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra)** — 26 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=49916997) (2026-10-01)
 - **[Show HN: Corral – Kill every command your agent starts](https://github.com/Cardinal44/corral)** — 19 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49886422) (2026-09-29)
-- **[Show HN: TurboGPT: train 22KiB transformer in 13s](https://github.com/lostmsu/TurboGPT)** — 52 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=49898931) (2026-09-29)
-- **[Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality](https://github.com/ciromattia/kcc)** — 37 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49879758) (2026-09-28)
-- **[Show HN: Raven – The harness of harnesses, built for RSI](https://github.com/EverMind-AI/Raven)** — 15 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49890647) (2026-09-29)
-- **[Show HN: Hntui – A TUI for Hacker News](https://github.com/ahmd-sh/hntui)** — 62 points, 30 comments on [Show HN](https://news.ycombinator.com/item?id=49876760) (2026-09-28)
-- **[Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page](https://github.com/seamusc/papermono-shopping-list)** — 31 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49875801) (2026-09-28)
-- **[Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)** — 331 points, 90 comments on [Show HN](https://news.ycombinator.com/item?id=49858513) (2026-09-26)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
