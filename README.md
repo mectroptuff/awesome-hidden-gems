@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-10 13:09 UTC._
+_Last checked: 2026-10-11 13:38 UTC._
 
+- **[Show HN: Diffle, a keyboard-centric diff viewer with LSP support](https://github.com/moritzwilksch/diffle)** — 61 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=50006930) (2026-10-08)
 - **[Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)** — 400 points, 180 comments on [Show HN](https://news.ycombinator.com/item?id=50018817) (2026-10-09)
 - **[Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private](https://github.com/darshi1337/apogee)** — 64 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50017301) (2026-10-09)
 - **[Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)** — 65 points, 52 comments on [Show HN](https://news.ycombinator.com/item?id=50009904) (2026-10-08)
@@ -44,7 +45,6 @@ _Last checked: 2026-10-10 13:09 UTC._
 - **[Show HN: Perspica – A semantic diff for reviewing code](https://github.com/sshah03/perspica)** — 15 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49914005) (2026-09-30)
 - **[Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia](https://github.com/Vibra-Ingenn/Janus)** — 82 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=49926773) (2026-10-01)
 - **[Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)** — 53 points, 18 comments on [Show HN](https://news.ycombinator.com/item?id=49931031) (2026-10-02)
-- **[Show HN: Engrams, an open source alternative to Devin](https://github.com/cortexapps/engrams)** — 17 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49923064) (2026-10-01)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
