@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-12 16:19 UTC._
+_Last checked: 2026-10-13 14:41 UTC._
 
+- **[Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)** — 103 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=50064840) (2026-10-13)
+- **[Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)** — 80 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50064438) (2026-10-12)
 - **[Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)** — 166 points, 89 comments on [Show HN](https://news.ycombinator.com/item?id=50052251) (2026-10-12)
 - **[Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac)** — 34 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50049588) (2026-10-12)
 - **[Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab](https://github.com/swimmingbrain/brainotes)** — 33 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50049132) (2026-10-11)
@@ -43,8 +45,6 @@ _Last checked: 2026-10-12 16:19 UTC._
 - **[Show HN: Minigraf – An embedded, bi-temporal graph database in Rust](https://github.com/project-minigraf/minigraf)** — 35 points, 28 comments on [Show HN](https://news.ycombinator.com/item?id=49963394) (2026-10-05)
 - **[Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)** — 156 points, 71 comments on [Show HN](https://news.ycombinator.com/item?id=49952111) (2026-10-04)
 - **[Show HN: Graphene – Data analysis toolkit for your coding agent](https://github.com/graphene-data/graphene)** — 31 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49927295) (2026-10-01)
-- **[Show HN: Use all Codex Plugins inside Pi](https://github.com/wileai/pi-codex-connectors)** — 21 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=49929381) (2026-10-02)
-- **[Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)** — 119 points, 46 comments on [Show HN](https://news.ycombinator.com/item?id=49937916) (2026-10-02)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
