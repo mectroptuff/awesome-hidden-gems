@@ -18,8 +18,12 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-13 14:41 UTC._
+_Last checked: 2026-10-14 12:33 UTC._
 
+- **[Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui)** — 76 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=50070010) (2026-10-13)
+- **[Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop)** — 31 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50075809) (2026-10-13)
+- **[Show HN: Sayso, free open source dictation for Mac, Windows, and Linux](https://github.com/watzon/sayso)** — 23 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50073755) (2026-10-13)
+- **[Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support](https://github.com/Arunjay4213/mosh-rs)** — 18 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50080836) (2026-10-14)
 - **[Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)** — 103 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=50064840) (2026-10-13)
 - **[Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)** — 80 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50064438) (2026-10-12)
 - **[Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)** — 166 points, 89 comments on [Show HN](https://news.ycombinator.com/item?id=50052251) (2026-10-12)
@@ -41,10 +45,6 @@ _Last checked: 2026-10-13 14:41 UTC._
 - **[Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler](https://github.com/lowenbjer/claude-terse)** — 20 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49995809) (2026-10-07)
 - **[Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart)** — 43 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49979793) (2026-10-06)
 - **[Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse)** — 40 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49987765) (2026-10-07)
-- **[Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear](https://github.com/rsutcliffe/nightwatch)** — 82 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=49952148) (2026-10-04)
-- **[Show HN: Minigraf – An embedded, bi-temporal graph database in Rust](https://github.com/project-minigraf/minigraf)** — 35 points, 28 comments on [Show HN](https://news.ycombinator.com/item?id=49963394) (2026-10-05)
-- **[Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)** — 156 points, 71 comments on [Show HN](https://news.ycombinator.com/item?id=49952111) (2026-10-04)
-- **[Show HN: Graphene – Data analysis toolkit for your coding agent](https://github.com/graphene-data/graphene)** — 31 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49927295) (2026-10-01)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
