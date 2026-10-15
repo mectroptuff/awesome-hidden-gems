@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-14 12:33 UTC._
+_Last checked: 2026-10-15 12:17 UTC._
 
+- **[Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)** — 50 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50099136) (2026-10-15)
+- **[Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=50088713) (2026-10-14)
+- **[Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop](https://github.com/RayenMlayeh/jevcrawl)** — 21 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50080450) (2026-10-13)
 - **[Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui)** — 76 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=50070010) (2026-10-13)
 - **[Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop)** — 31 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50075809) (2026-10-13)
 - **[Show HN: Sayso, free open source dictation for Mac, Windows, and Linux](https://github.com/watzon/sayso)** — 23 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50073755) (2026-10-13)
@@ -42,9 +45,6 @@ _Last checked: 2026-10-14 12:33 UTC._
 - **[Show HN: Procinsh – A 3D Linux process inspector](https://github.com/akawashiro/procinsh)** — 54 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49991986) (2026-10-07)
 - **[Show HN: Durable Actors – OSS Durable Objects with configurable compute](https://github.com/TerseAI/durable-actors)** — 41 points, 25 comments on [Show HN](https://news.ycombinator.com/item?id=49980399) (2026-10-06)
 - **[Show HN: Pinrail – A desktop inbox where coding agents wait for your review](https://github.com/forgeplane/pinrail)** — 22 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49995778) (2026-10-07)
-- **[Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler](https://github.com/lowenbjer/claude-terse)** — 20 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=49995809) (2026-10-07)
-- **[Show HN: OpenChart – OSS TradingView alternative with your own AI agent](https://github.com/longsurf-ai/openchart)** — 43 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=49979793) (2026-10-06)
-- **[Show HN: NanoMuse – An open-source AI agent for your phone and computer](https://github.com/nano-muse/nanoMuse)** — 40 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=49987765) (2026-10-07)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
