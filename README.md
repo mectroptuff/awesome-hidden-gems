@@ -18,7 +18,7 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-15 12:17 UTC._
+_Last checked: 2026-10-16 11:59 UTC._
 
 - **[Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)** — 50 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50099136) (2026-10-15)
 - **[Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=50088713) (2026-10-14)
