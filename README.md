@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-17 11:15 UTC._
+_Last checked: 2026-10-18 11:52 UTC._
 
+- **[Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)** — 173 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50131189) (2026-10-17)
+- **[Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang](https://github.com/Kapendev/parin)** — 64 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=50118098) (2026-10-16)
+- **[Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop](https://github.com/CLoaKY233/siltop)** — 17 points, 25 comments on [Show HN](https://news.ycombinator.com/item?id=50128654) (2026-10-17)
 - **[Show HN: BlastLoop, a structure-first coding method for AI agents](https://github.com/rlshaw-ml/BlastLoop)** — 15 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50106062) (2026-10-15)
 - **[Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)** — 50 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50099136) (2026-10-15)
 - **[Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=50088713) (2026-10-14)
@@ -42,9 +45,6 @@ _Last checked: 2026-10-17 11:15 UTC._
 - **[Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)** — 47 points, 56 comments on [Show HN](https://news.ycombinator.com/item?id=50012199) (2026-10-08)
 - **[Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI](https://github.com/edrisranjbar/lifeos)** — 39 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=50014150) (2026-10-09)
 - **[Show HN: I Put an AI Agent on a Nokia 110](https://github.com/anupray95/AI-Agent-on-a-NOKIA)** — 30 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=50006114) (2026-10-08)
-- **[Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes](https://github.com/edgedelta/project-arena)** — 23 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50008642) (2026-10-08)
-- **[Show HN: Procinsh – A 3D Linux process inspector](https://github.com/akawashiro/procinsh)** — 54 points, 24 comments on [Show HN](https://news.ycombinator.com/item?id=49991986) (2026-10-07)
-- **[Show HN: Durable Actors – OSS Durable Objects with configurable compute](https://github.com/TerseAI/durable-actors)** — 41 points, 25 comments on [Show HN](https://news.ycombinator.com/item?id=49980399) (2026-10-06)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
