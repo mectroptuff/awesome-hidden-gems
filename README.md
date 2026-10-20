@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-19 14:10 UTC._
+_Last checked: 2026-10-20 12:23 UTC._
 
+- **[Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)** — 68 points, 41 comments on [Show HN](https://news.ycombinator.com/item?id=50152541) (2026-10-19)
+- **[Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)** — 22 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50155647) (2026-10-19)
+- **[Show HN: Lights-on software factory boilerplate for Claude Code](https://github.com/gojko/lights-on-software-factory)** — 15 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50160198) (2026-10-20)
 - **[Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)** — 132 points, 70 comments on [Show HN](https://news.ycombinator.com/item?id=50145715) (2026-10-18)
 - **[Show HN: Strot – Compile an LLM's intent once, run decisions locally](https://github.com/strot-ai/Project-STROT)** — 23 points, 11 comments on [Show HN](https://news.ycombinator.com/item?id=50148396) (2026-10-19)
 - **[Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)** — 173 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50131189) (2026-10-17)
@@ -42,9 +45,6 @@ _Last checked: 2026-10-19 14:10 UTC._
 - **[Show HN: Diffle, a keyboard-centric diff viewer with LSP support](https://github.com/moritzwilksch/diffle)** — 61 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=50006930) (2026-10-08)
 - **[Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)** — 400 points, 180 comments on [Show HN](https://news.ycombinator.com/item?id=50018817) (2026-10-09)
 - **[Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private](https://github.com/darshi1337/apogee)** — 64 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50017301) (2026-10-09)
-- **[Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)](https://github.com/p10node/k10s)** — 65 points, 52 comments on [Show HN](https://news.ycombinator.com/item?id=50009904) (2026-10-08)
-- **[Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU](https://github.com/ymcrcat/rgpu)** — 51 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=49988516) (2026-10-07)
-- **[Show HN: Free open source Adobe Lightroom alternative, completely local with AI](https://github.com/thesnarkitecht/rembrandt)** — 47 points, 56 comments on [Show HN](https://news.ycombinator.com/item?id=50012199) (2026-10-08)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
