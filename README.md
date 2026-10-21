@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-20 12:23 UTC._
+_Last checked: 2026-10-21 12:35 UTC._
 
+- **[Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)** — 185 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50167286) (2026-10-20)
+- **[Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)** — 62 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50167604) (2026-10-20)
+- **[Show HN: RawLink – Building a VPN protocol from scratch](https://github.com/zolagonano/RawLink)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=50156469) (2026-10-19)
 - **[Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)** — 68 points, 41 comments on [Show HN](https://news.ycombinator.com/item?id=50152541) (2026-10-19)
 - **[Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)** — 22 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50155647) (2026-10-19)
 - **[Show HN: Lights-on software factory boilerplate for Claude Code](https://github.com/gojko/lights-on-software-factory)** — 15 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50160198) (2026-10-20)
@@ -42,9 +45,6 @@ _Last checked: 2026-10-20 12:23 UTC._
 - **[Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac)** — 34 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50049588) (2026-10-12)
 - **[Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab](https://github.com/swimmingbrain/brainotes)** — 33 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50049132) (2026-10-11)
 - **[Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll)** — 15 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50049388) (2026-10-11)
-- **[Show HN: Diffle, a keyboard-centric diff viewer with LSP support](https://github.com/moritzwilksch/diffle)** — 61 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=50006930) (2026-10-08)
-- **[Show HN: Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)** — 400 points, 180 comments on [Show HN](https://news.ycombinator.com/item?id=50018817) (2026-10-09)
-- **[Show HN: Apogee: Rebuilding Mozilla's Orbit, fully local and private](https://github.com/darshi1337/apogee)** — 64 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50017301) (2026-10-09)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
