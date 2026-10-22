@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-21 12:35 UTC._
+_Last checked: 2026-10-22 12:37 UTC._
 
+- **[Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)** — 90 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=50183892) (2026-10-21)
+- **[Show HN: Sumi.css – CSS Framework](https://github.com/vladocar/Sumi.css)** — 88 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=50180039) (2026-10-21)
 - **[Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)** — 185 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50167286) (2026-10-20)
 - **[Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)** — 62 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50167604) (2026-10-20)
 - **[Show HN: RawLink – Building a VPN protocol from scratch](https://github.com/zolagonano/RawLink)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=50156469) (2026-10-19)
@@ -43,8 +45,6 @@ _Last checked: 2026-10-21 12:35 UTC._
 - **[Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)** — 80 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50064438) (2026-10-12)
 - **[Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)** — 166 points, 89 comments on [Show HN](https://news.ycombinator.com/item?id=50052251) (2026-10-12)
 - **[Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac)** — 34 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50049588) (2026-10-12)
-- **[Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab](https://github.com/swimmingbrain/brainotes)** — 33 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50049132) (2026-10-11)
-- **[Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes](https://github.com/plimsollmark/plimsoll)** — 15 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50049388) (2026-10-11)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
