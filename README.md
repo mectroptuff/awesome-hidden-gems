@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-22 12:37 UTC._
+_Last checked: 2026-10-23 12:17 UTC._
 
+- **[Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)** — 75 points, 43 comments on [Show HN](https://news.ycombinator.com/item?id=50195488) (2026-10-22)
+- **[Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)** — 40 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50202865) (2026-10-23)
+- **[Show HN: agent-usage-guard – a Claude Code mod to protect your usage window](https://github.com/rbartoli/agent-usage-guard)** — 23 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50198936) (2026-10-22)
 - **[Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)** — 90 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=50183892) (2026-10-21)
 - **[Show HN: Sumi.css – CSS Framework](https://github.com/vladocar/Sumi.css)** — 88 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=50180039) (2026-10-21)
 - **[Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)** — 185 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50167286) (2026-10-20)
@@ -42,9 +45,6 @@ _Last checked: 2026-10-22 12:37 UTC._
 - **[Show HN: Sayso, free open source dictation for Mac, Windows, and Linux](https://github.com/watzon/sayso)** — 23 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50073755) (2026-10-13)
 - **[Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support](https://github.com/Arunjay4213/mosh-rs)** — 18 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50080836) (2026-10-14)
 - **[Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)** — 103 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=50064840) (2026-10-13)
-- **[Show HN: An experimental pattern-first DAW that supports MCP](https://github.com/andrewfader/blokkily)** — 80 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50064438) (2026-10-12)
-- **[Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)** — 166 points, 89 comments on [Show HN](https://news.ycombinator.com/item?id=50052251) (2026-10-12)
-- **[Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p](https://github.com/SaarthurR/atticus-mac)** — 34 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50049588) (2026-10-12)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
