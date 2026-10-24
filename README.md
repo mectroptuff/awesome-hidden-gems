@@ -18,7 +18,7 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-23 12:17 UTC._
+_Last checked: 2026-10-24 11:43 UTC._
 
 - **[Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)** — 75 points, 43 comments on [Show HN](https://news.ycombinator.com/item?id=50195488) (2026-10-22)
 - **[Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)** — 40 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50202865) (2026-10-23)
