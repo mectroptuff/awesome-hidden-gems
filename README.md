@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-24 11:43 UTC._
+_Last checked: 2026-10-25 12:12 UTC._
 
+- **[Show HN: Enzyme – a programming language that compiles wikis for agents](https://github.com/byenzyme/enzyme)** — 20 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50221066) (2026-10-24)
+- **[Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)** — 17 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50223201) (2026-10-24)
 - **[Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)** — 75 points, 43 comments on [Show HN](https://news.ycombinator.com/item?id=50195488) (2026-10-22)
 - **[Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)** — 40 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50202865) (2026-10-23)
 - **[Show HN: agent-usage-guard – a Claude Code mod to protect your usage window](https://github.com/rbartoli/agent-usage-guard)** — 23 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50198936) (2026-10-22)
@@ -43,8 +45,6 @@ _Last checked: 2026-10-24 11:43 UTC._
 - **[Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui)** — 76 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=50070010) (2026-10-13)
 - **[Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop)** — 31 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50075809) (2026-10-13)
 - **[Show HN: Sayso, free open source dictation for Mac, Windows, and Linux](https://github.com/watzon/sayso)** — 23 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50073755) (2026-10-13)
-- **[Show HN: Mosh-rs, Mosh rewritten in Rust with scrollback and Windows support](https://github.com/Arunjay4213/mosh-rs)** — 18 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50080836) (2026-10-14)
-- **[Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)](https://github.com/bherbruck/solidcraft)** — 103 points, 22 comments on [Show HN](https://news.ycombinator.com/item?id=50064840) (2026-10-13)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
