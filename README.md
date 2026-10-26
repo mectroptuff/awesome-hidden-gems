@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-25 12:12 UTC._
+_Last checked: 2026-10-26 13:44 UTC._
 
+- **[Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)** — 209 points, 68 comments on [Show HN](https://news.ycombinator.com/item?id=50228115) (2026-10-25)
+- **[Show HN: Farol – A risk map of a pull request for the person who approves it](https://github.com/winnin/farol)** — 60 points, 37 comments on [Show HN](https://news.ycombinator.com/item?id=50231349) (2026-10-25)
 - **[Show HN: Enzyme – a programming language that compiles wikis for agents](https://github.com/byenzyme/enzyme)** — 20 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50221066) (2026-10-24)
 - **[Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)** — 17 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50223201) (2026-10-24)
 - **[Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)** — 75 points, 43 comments on [Show HN](https://news.ycombinator.com/item?id=50195488) (2026-10-22)
@@ -43,8 +45,6 @@ _Last checked: 2026-10-25 12:12 UTC._
 - **[Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=50088713) (2026-10-14)
 - **[Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop](https://github.com/RayenMlayeh/jevcrawl)** — 21 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50080450) (2026-10-13)
 - **[Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui)** — 76 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=50070010) (2026-10-13)
-- **[Show HN: Deslop – Oxlint rules for AI-generated TypeScript](https://github.com/maharshi365/deslop)** — 31 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50075809) (2026-10-13)
-- **[Show HN: Sayso, free open source dictation for Mac, Windows, and Linux](https://github.com/watzon/sayso)** — 23 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50073755) (2026-10-13)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
