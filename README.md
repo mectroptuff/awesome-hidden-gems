@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-26 13:44 UTC._
+_Last checked: 2026-10-27 12:51 UTC._
 
+- **[Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)** — 149 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50246238) (2026-10-26)
+- **[Show HN: A Minecraft mod that generates the world at 1:1 scale](https://github.com/pirut/earth-platform)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50241619) (2026-10-26)
 - **[Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)** — 209 points, 68 comments on [Show HN](https://news.ycombinator.com/item?id=50228115) (2026-10-25)
 - **[Show HN: Farol – A risk map of a pull request for the person who approves it](https://github.com/winnin/farol)** — 60 points, 37 comments on [Show HN](https://news.ycombinator.com/item?id=50231349) (2026-10-25)
 - **[Show HN: Enzyme – a programming language that compiles wikis for agents](https://github.com/byenzyme/enzyme)** — 20 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50221066) (2026-10-24)
@@ -43,8 +45,6 @@ _Last checked: 2026-10-26 13:44 UTC._
 - **[Show HN: BlastLoop, a structure-first coding method for AI agents](https://github.com/rlshaw-ml/BlastLoop)** — 15 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50106062) (2026-10-15)
 - **[Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)** — 50 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50099136) (2026-10-15)
 - **[Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=50088713) (2026-10-14)
-- **[Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop](https://github.com/RayenMlayeh/jevcrawl)** — 21 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50080450) (2026-10-13)
-- **[Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui)** — 76 points, 15 comments on [Show HN](https://news.ycombinator.com/item?id=50070010) (2026-10-13)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
