@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-27 12:51 UTC._
+_Last checked: 2026-10-28 13:40 UTC._
 
+- **[Show HN: AgentTrust – Zero-trust security and human approvals for AI agents](https://github.com/SRN0129/Agenttrust)** — 15 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50235909) (2026-10-25)
 - **[Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)** — 149 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50246238) (2026-10-26)
 - **[Show HN: A Minecraft mod that generates the world at 1:1 scale](https://github.com/pirut/earth-platform)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50241619) (2026-10-26)
 - **[Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)** — 209 points, 68 comments on [Show HN](https://news.ycombinator.com/item?id=50228115) (2026-10-25)
@@ -44,7 +45,6 @@ _Last checked: 2026-10-27 12:51 UTC._
 - **[Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop](https://github.com/CLoaKY233/siltop)** — 17 points, 25 comments on [Show HN](https://news.ycombinator.com/item?id=50128654) (2026-10-17)
 - **[Show HN: BlastLoop, a structure-first coding method for AI agents](https://github.com/rlshaw-ml/BlastLoop)** — 15 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50106062) (2026-10-15)
 - **[Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)** — 50 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50099136) (2026-10-15)
-- **[Show HN: Graphicle, a Rust port of Graphify with memory for coding agents](https://github.com/graphicle-ai/graphicle)** — 45 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=50088713) (2026-10-14)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
