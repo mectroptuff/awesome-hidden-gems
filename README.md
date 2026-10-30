@@ -18,8 +18,13 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-29 13:50 UTC._
+_Last checked: 2026-10-30 13:43 UTC._
 
+- **[Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)** — 146 points, 114 comments on [Show HN](https://news.ycombinator.com/item?id=50294506) (2026-10-29)
+- **[Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)** — 111 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50297697) (2026-10-29)
+- **[Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)** — 78 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50278678) (2026-10-28)
+- **[Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions)** — 41 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50293115) (2026-10-29)
+- **[Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)** — 33 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=50299004) (2026-10-30)
 - **[Show HN: AgentTrust – Zero-trust security and human approvals for AI agents](https://github.com/SRN0129/Agenttrust)** — 15 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50235909) (2026-10-25)
 - **[Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)** — 149 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50246238) (2026-10-26)
 - **[Show HN: A Minecraft mod that generates the world at 1:1 scale](https://github.com/pirut/earth-platform)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50241619) (2026-10-26)
@@ -40,11 +45,6 @@ _Last checked: 2026-10-29 13:50 UTC._
 - **[Show HN: Lights-on software factory boilerplate for Claude Code](https://github.com/gojko/lights-on-software-factory)** — 15 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50160198) (2026-10-20)
 - **[Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)** — 132 points, 70 comments on [Show HN](https://news.ycombinator.com/item?id=50145715) (2026-10-18)
 - **[Show HN: Strot – Compile an LLM's intent once, run decisions locally](https://github.com/strot-ai/Project-STROT)** — 23 points, 11 comments on [Show HN](https://news.ycombinator.com/item?id=50148396) (2026-10-19)
-- **[Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)** — 173 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50131189) (2026-10-17)
-- **[Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang](https://github.com/Kapendev/parin)** — 64 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=50118098) (2026-10-16)
-- **[Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop](https://github.com/CLoaKY233/siltop)** — 17 points, 25 comments on [Show HN](https://news.ycombinator.com/item?id=50128654) (2026-10-17)
-- **[Show HN: BlastLoop, a structure-first coding method for AI agents](https://github.com/rlshaw-ml/BlastLoop)** — 15 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50106062) (2026-10-15)
-- **[Show HN: Flipflop, Iroh-powered persistent tunnels for filesharing](https://github.com/andunieee/flipflop)** — 50 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50099136) (2026-10-15)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
