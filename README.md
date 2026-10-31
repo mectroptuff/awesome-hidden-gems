@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-30 13:43 UTC._
+_Last checked: 2026-10-31 13:11 UTC._
 
+- **[Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)** — 263 points, 128 comments on [Show HN](https://news.ycombinator.com/item?id=50306442) (2026-10-30)
+- **[Show HN: I rebuilt Kubernetes for ESP32 microcontrollers](https://github.com/arterialist/kube32)** — 46 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=50291812) (2026-10-29)
+- **[Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)** — 22 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50306815) (2026-10-30)
 - **[Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)** — 146 points, 114 comments on [Show HN](https://news.ycombinator.com/item?id=50294506) (2026-10-29)
 - **[Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)** — 111 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50297697) (2026-10-29)
 - **[Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)** — 78 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50278678) (2026-10-28)
@@ -42,9 +45,6 @@ _Last checked: 2026-10-30 13:43 UTC._
 - **[Show HN: RawLink – Building a VPN protocol from scratch](https://github.com/zolagonano/RawLink)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=50156469) (2026-10-19)
 - **[Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)** — 68 points, 41 comments on [Show HN](https://news.ycombinator.com/item?id=50152541) (2026-10-19)
 - **[Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)** — 22 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50155647) (2026-10-19)
-- **[Show HN: Lights-on software factory boilerplate for Claude Code](https://github.com/gojko/lights-on-software-factory)** — 15 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50160198) (2026-10-20)
-- **[Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)** — 132 points, 70 comments on [Show HN](https://news.ycombinator.com/item?id=50145715) (2026-10-18)
-- **[Show HN: Strot – Compile an LLM's intent once, run decisions locally](https://github.com/strot-ai/Project-STROT)** — 23 points, 11 comments on [Show HN](https://news.ycombinator.com/item?id=50148396) (2026-10-19)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
