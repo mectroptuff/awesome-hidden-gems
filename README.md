@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-10-31 13:11 UTC._
+_Last checked: 2026-11-01 13:55 UTC._
 
+- **[Show HN: A language model that lives in a boot sector](https://github.com/kerlenton/bootgpt)** — 87 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50315782) (2026-10-31)
+- **[Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)** — 59 points, 39 comments on [Show HN](https://news.ycombinator.com/item?id=50300902) (2026-10-30)
+- **[Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)** — 58 points, 37 comments on [Show HN](https://news.ycombinator.com/item?id=50317331) (2026-10-31)
 - **[Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)** — 263 points, 128 comments on [Show HN](https://news.ycombinator.com/item?id=50306442) (2026-10-30)
 - **[Show HN: I rebuilt Kubernetes for ESP32 microcontrollers](https://github.com/arterialist/kube32)** — 46 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=50291812) (2026-10-29)
 - **[Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)** — 22 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50306815) (2026-10-30)
@@ -42,9 +45,6 @@ _Last checked: 2026-10-31 13:11 UTC._
 - **[Show HN: Sumi.css – CSS Framework](https://github.com/vladocar/Sumi.css)** — 88 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=50180039) (2026-10-21)
 - **[Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)** — 185 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50167286) (2026-10-20)
 - **[Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)** — 62 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50167604) (2026-10-20)
-- **[Show HN: RawLink – Building a VPN protocol from scratch](https://github.com/zolagonano/RawLink)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=50156469) (2026-10-19)
-- **[Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)** — 68 points, 41 comments on [Show HN](https://news.ycombinator.com/item?id=50152541) (2026-10-19)
-- **[Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)** — 22 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50155647) (2026-10-19)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
