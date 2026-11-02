@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-01 13:55 UTC._
+_Last checked: 2026-11-02 16:41 UTC._
 
+- **[Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff)** — 296 points, 92 comments on [Show HN](https://news.ycombinator.com/item?id=50325253) (2026-11-01)
 - **[Show HN: A language model that lives in a boot sector](https://github.com/kerlenton/bootgpt)** — 87 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50315782) (2026-10-31)
 - **[Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)** — 59 points, 39 comments on [Show HN](https://news.ycombinator.com/item?id=50300902) (2026-10-30)
 - **[Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)** — 58 points, 37 comments on [Show HN](https://news.ycombinator.com/item?id=50317331) (2026-10-31)
@@ -44,7 +45,6 @@ _Last checked: 2026-11-01 13:55 UTC._
 - **[Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)** — 90 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=50183892) (2026-10-21)
 - **[Show HN: Sumi.css – CSS Framework](https://github.com/vladocar/Sumi.css)** — 88 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=50180039) (2026-10-21)
 - **[Show HN: VoidAccess – open-source dark web OSINT, from query to a graph](https://github.com/KatrielMoses/voidaccess)** — 185 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50167286) (2026-10-20)
-- **[Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)** — 62 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50167604) (2026-10-20)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
