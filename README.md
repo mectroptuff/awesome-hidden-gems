@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-03 14:45 UTC._
+_Last checked: 2026-11-04 14:57 UTC._
 
+- **[Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)** — 99 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=50358314) (2026-11-03)
 - **[Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python](https://github.com/atifcodesalot/pyWolf3D)** — 28 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50338891) (2026-11-02)
 - **[Show HN: Open a 300k-row XLSX in the browser in ~300ms, no server](https://github.com/p10node/office-engine)** — 16 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50348361) (2026-11-03)
 - **[Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff)** — 296 points, 92 comments on [Show HN](https://news.ycombinator.com/item?id=50325253) (2026-11-01)
@@ -44,7 +45,6 @@ _Last checked: 2026-11-03 14:45 UTC._
 - **[Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)** — 75 points, 43 comments on [Show HN](https://news.ycombinator.com/item?id=50195488) (2026-10-22)
 - **[Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)** — 40 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50202865) (2026-10-23)
 - **[Show HN: agent-usage-guard – a Claude Code mod to protect your usage window](https://github.com/rbartoli/agent-usage-guard)** — 23 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50198936) (2026-10-22)
-- **[Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)** — 90 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=50183892) (2026-10-21)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
