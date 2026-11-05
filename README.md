@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-04 14:57 UTC._
+_Last checked: 2026-11-05 15:02 UTC._
 
+- **[Show HN: Codemap – one-page interactive map of any Go repository](https://github.com/peterretief/codemap)** — 43 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50366811) (2026-11-04)
+- **[Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli)** — 36 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50371090) (2026-11-04)
+- **[Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed](https://github.com/flitai-io/gpuworks)** — 25 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50367630) (2026-11-04)
 - **[Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)** — 99 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=50358314) (2026-11-03)
 - **[Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python](https://github.com/atifcodesalot/pyWolf3D)** — 28 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50338891) (2026-11-02)
 - **[Show HN: Open a 300k-row XLSX in the browser in ~300ms, no server](https://github.com/p10node/office-engine)** — 16 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50348361) (2026-11-03)
@@ -42,9 +45,6 @@ _Last checked: 2026-11-04 14:57 UTC._
 - **[Show HN: Farol – A risk map of a pull request for the person who approves it](https://github.com/winnin/farol)** — 60 points, 37 comments on [Show HN](https://news.ycombinator.com/item?id=50231349) (2026-10-25)
 - **[Show HN: Enzyme – a programming language that compiles wikis for agents](https://github.com/byenzyme/enzyme)** — 20 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50221066) (2026-10-24)
 - **[Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)** — 17 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50223201) (2026-10-24)
-- **[Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey)** — 75 points, 43 comments on [Show HN](https://news.ycombinator.com/item?id=50195488) (2026-10-22)
-- **[Show HN: Making a smart TV dumb and then smart](https://github.com/anubhavmalhotra/r2d2-tv)** — 40 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50202865) (2026-10-23)
-- **[Show HN: agent-usage-guard – a Claude Code mod to protect your usage window](https://github.com/rbartoli/agent-usage-guard)** — 23 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50198936) (2026-10-22)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
