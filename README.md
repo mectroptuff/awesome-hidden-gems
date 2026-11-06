@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-05 15:02 UTC._
+_Last checked: 2026-11-06 14:41 UTC._
 
+- **[Show HN: Stroq – a local audit of what your coding agent did and why](https://github.com/AGGIB/Stroq)** — 89 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50380704) (2026-11-05)
+- **[Show HN: TubeHaus – an open-source YouTube client with no Google account](https://github.com/biolend83/tubehaus)** — 21 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50379073) (2026-11-05)
 - **[Show HN: Codemap – one-page interactive map of any Go repository](https://github.com/peterretief/codemap)** — 43 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50366811) (2026-11-04)
 - **[Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli)** — 36 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50371090) (2026-11-04)
 - **[Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed](https://github.com/flitai-io/gpuworks)** — 25 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50367630) (2026-11-04)
@@ -43,8 +45,6 @@ _Last checked: 2026-11-05 15:02 UTC._
 - **[Show HN: A Minecraft mod that generates the world at 1:1 scale](https://github.com/pirut/earth-platform)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50241619) (2026-10-26)
 - **[Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)** — 209 points, 68 comments on [Show HN](https://news.ycombinator.com/item?id=50228115) (2026-10-25)
 - **[Show HN: Farol – A risk map of a pull request for the person who approves it](https://github.com/winnin/farol)** — 60 points, 37 comments on [Show HN](https://news.ycombinator.com/item?id=50231349) (2026-10-25)
-- **[Show HN: Enzyme – a programming language that compiles wikis for agents](https://github.com/byenzyme/enzyme)** — 20 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50221066) (2026-10-24)
-- **[Show HN: Argus- open source security platform to protect against agentic attacks](https://github.com/thomasunise/argus)** — 17 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50223201) (2026-10-24)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
