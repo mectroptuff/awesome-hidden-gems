@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-06 14:41 UTC._
+_Last checked: 2026-11-07 13:39 UTC._
 
+- **[Show HN: Waymark – A workflow engine that compiles jobs instead of replaying](https://github.com/piercefreeman/waymark)** — 78 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50379221) (2026-11-05)
+- **[Show HN: CloneGuard – Scan a repo for credential-stealing tricks before it runs](https://github.com/tharun208/cloneguard)** — 31 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50397435) (2026-11-06)
+- **[Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker)** — 22 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50393235) (2026-11-06)
 - **[Show HN: Stroq – a local audit of what your coding agent did and why](https://github.com/AGGIB/Stroq)** — 89 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50380704) (2026-11-05)
 - **[Show HN: TubeHaus – an open-source YouTube client with no Google account](https://github.com/biolend83/tubehaus)** — 21 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50379073) (2026-11-05)
 - **[Show HN: Codemap – one-page interactive map of any Go repository](https://github.com/peterretief/codemap)** — 43 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50366811) (2026-11-04)
@@ -42,9 +45,6 @@ _Last checked: 2026-11-06 14:41 UTC._
 - **[Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)** — 33 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=50299004) (2026-10-30)
 - **[Show HN: AgentTrust – Zero-trust security and human approvals for AI agents](https://github.com/SRN0129/Agenttrust)** — 15 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50235909) (2026-10-25)
 - **[Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)** — 149 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50246238) (2026-10-26)
-- **[Show HN: A Minecraft mod that generates the world at 1:1 scale](https://github.com/pirut/earth-platform)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50241619) (2026-10-26)
-- **[Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)** — 209 points, 68 comments on [Show HN](https://news.ycombinator.com/item?id=50228115) (2026-10-25)
-- **[Show HN: Farol – A risk map of a pull request for the person who approves it](https://github.com/winnin/farol)** — 60 points, 37 comments on [Show HN](https://news.ycombinator.com/item?id=50231349) (2026-10-25)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
