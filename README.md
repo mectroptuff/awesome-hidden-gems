@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-07 13:39 UTC._
+_Last checked: 2026-11-08 13:57 UTC._
 
+- **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)** — 257 points, 61 comments on [Show HN](https://news.ycombinator.com/item?id=50406292) (2026-11-07)
+- **[Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash)** — 70 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=50405263) (2026-11-07)
+- **[Show HN: An open source webbluetooth and NFC browser for iOS](https://github.com/hito-dev/wand-browser)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=50392219) (2026-11-06)
 - **[Show HN: Waymark – A workflow engine that compiles jobs instead of replaying](https://github.com/piercefreeman/waymark)** — 78 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50379221) (2026-11-05)
 - **[Show HN: CloneGuard – Scan a repo for credential-stealing tricks before it runs](https://github.com/tharun208/cloneguard)** — 31 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50397435) (2026-11-06)
 - **[Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker)** — 22 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50393235) (2026-11-06)
@@ -42,9 +45,6 @@ _Last checked: 2026-11-07 13:39 UTC._
 - **[Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)** — 111 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50297697) (2026-10-29)
 - **[Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)** — 78 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50278678) (2026-10-28)
 - **[Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions)** — 41 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50293115) (2026-10-29)
-- **[Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)** — 33 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=50299004) (2026-10-30)
-- **[Show HN: AgentTrust – Zero-trust security and human approvals for AI agents](https://github.com/SRN0129/Agenttrust)** — 15 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50235909) (2026-10-25)
-- **[Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)** — 149 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50246238) (2026-10-26)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
