@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-08 13:57 UTC._
+_Last checked: 2026-11-09 16:58 UTC._
 
+- **[Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)** — 94 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50421155) (2026-11-09)
+- **[Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)** — 38 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50401844) (2026-11-07)
+- **[Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU](https://github.com/AmSach/maple)** — 20 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50410253) (2026-11-08)
 - **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)** — 257 points, 61 comments on [Show HN](https://news.ycombinator.com/item?id=50406292) (2026-11-07)
 - **[Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash)** — 70 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=50405263) (2026-11-07)
 - **[Show HN: An open source webbluetooth and NFC browser for iOS](https://github.com/hito-dev/wand-browser)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=50392219) (2026-11-06)
@@ -42,9 +45,6 @@ _Last checked: 2026-11-08 13:57 UTC._
 - **[Show HN: I rebuilt Kubernetes for ESP32 microcontrollers](https://github.com/arterialist/kube32)** — 46 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=50291812) (2026-10-29)
 - **[Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)** — 22 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50306815) (2026-10-30)
 - **[Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)** — 146 points, 114 comments on [Show HN](https://news.ycombinator.com/item?id=50294506) (2026-10-29)
-- **[Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)** — 111 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50297697) (2026-10-29)
-- **[Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)** — 78 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50278678) (2026-10-28)
-- **[Show HN: Overtone – Transcribe, correct and cut captions for any screen shape](https://github.com/lonthq/overtone-captions)** — 41 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50293115) (2026-10-29)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
