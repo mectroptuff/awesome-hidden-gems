@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-09 16:58 UTC._
+_Last checked: 2026-11-10 15:18 UTC._
 
+- **[Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)** — 102 points, 53 comments on [Show HN](https://news.ycombinator.com/item?id=50439000) (2026-11-10)
+- **[Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer)** — 99 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=50429144) (2026-11-09)
+- **[Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)** — 33 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50413970) (2026-11-08)
 - **[Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)** — 94 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50421155) (2026-11-09)
 - **[Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)** — 38 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50401844) (2026-11-07)
 - **[Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU](https://github.com/AmSach/maple)** — 20 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50410253) (2026-11-08)
@@ -42,9 +45,6 @@ _Last checked: 2026-11-09 16:58 UTC._
 - **[Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)** — 59 points, 39 comments on [Show HN](https://news.ycombinator.com/item?id=50300902) (2026-10-30)
 - **[Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)** — 58 points, 37 comments on [Show HN](https://news.ycombinator.com/item?id=50317331) (2026-10-31)
 - **[Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)** — 263 points, 128 comments on [Show HN](https://news.ycombinator.com/item?id=50306442) (2026-10-30)
-- **[Show HN: I rebuilt Kubernetes for ESP32 microcontrollers](https://github.com/arterialist/kube32)** — 46 points, 12 comments on [Show HN](https://news.ycombinator.com/item?id=50291812) (2026-10-29)
-- **[Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)** — 22 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50306815) (2026-10-30)
-- **[Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)** — 146 points, 114 comments on [Show HN](https://news.ycombinator.com/item?id=50294506) (2026-10-29)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
