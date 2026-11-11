@@ -18,8 +18,12 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-10 15:18 UTC._
+_Last checked: 2026-11-11 14:48 UTC._
 
+- **[Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)** — 409 points, 133 comments on [Show HN](https://news.ycombinator.com/item?id=50443812) (2026-11-10)
+- **[Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)** — 77 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=50449891) (2026-11-11)
+- **[Show HN: I have trained 15 blood glucose forecasting models on my own data](https://github.com/0xdeadf1sh/T1DMAI)** — 20 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50444761) (2026-11-10)
+- **[Show HN: Write GitHub Actions in any language: Loopt](https://github.com/preloopdev/loopt)** — 15 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50429031) (2026-11-09)
 - **[Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)** — 102 points, 53 comments on [Show HN](https://news.ycombinator.com/item?id=50439000) (2026-11-10)
 - **[Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer)** — 99 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=50429144) (2026-11-09)
 - **[Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)** — 33 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50413970) (2026-11-08)
@@ -41,10 +45,6 @@ _Last checked: 2026-11-10 15:18 UTC._
 - **[Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python](https://github.com/atifcodesalot/pyWolf3D)** — 28 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50338891) (2026-11-02)
 - **[Show HN: Open a 300k-row XLSX in the browser in ~300ms, no server](https://github.com/p10node/office-engine)** — 16 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50348361) (2026-11-03)
 - **[Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff)** — 296 points, 92 comments on [Show HN](https://news.ycombinator.com/item?id=50325253) (2026-11-01)
-- **[Show HN: A language model that lives in a boot sector](https://github.com/kerlenton/bootgpt)** — 87 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50315782) (2026-10-31)
-- **[Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)** — 59 points, 39 comments on [Show HN](https://news.ycombinator.com/item?id=50300902) (2026-10-30)
-- **[Show HN: A USB-C LTE modem that gives my computer a phone line](https://github.com/Koppar-AI/koppar-lte-modem)** — 58 points, 37 comments on [Show HN](https://news.ycombinator.com/item?id=50317331) (2026-10-31)
-- **[Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)** — 263 points, 128 comments on [Show HN](https://news.ycombinator.com/item?id=50306442) (2026-10-30)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
