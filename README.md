@@ -18,8 +18,14 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-11 14:48 UTC._
+_Last checked: 2026-11-12 15:40 UTC._
 
+- **[Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)** — 271 points, 101 comments on [Show HN](https://news.ycombinator.com/item?id=50454625) (2026-11-11)
+- **[Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)** — 103 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=50453229) (2026-11-11)
+- **[Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)** — 82 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50454951) (2026-11-11)
+- **[Show HN: 3D to 2D, point clouds flattening (geometry images)](https://github.com/Neighborhood-Grid/flatpoints)** — 24 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=50427153) (2026-11-09)
+- **[Show HN: I created a library for correctly using SQLite in Go programs](https://github.com/cattlecloud/litesql)** — 22 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50453176) (2026-11-11)
+- **[Show HN: Aq – an attention queue TUI for Claude Code](https://github.com/nodo-labs-uk/attention-queue)** — 19 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50452257) (2026-11-11)
 - **[Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)** — 409 points, 133 comments on [Show HN](https://news.ycombinator.com/item?id=50443812) (2026-11-10)
 - **[Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)** — 77 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=50449891) (2026-11-11)
 - **[Show HN: I have trained 15 blood glucose forecasting models on my own data](https://github.com/0xdeadf1sh/T1DMAI)** — 20 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50444761) (2026-11-10)
@@ -39,12 +45,6 @@ _Last checked: 2026-11-11 14:48 UTC._
 - **[Show HN: Stroq – a local audit of what your coding agent did and why](https://github.com/AGGIB/Stroq)** — 89 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50380704) (2026-11-05)
 - **[Show HN: TubeHaus – an open-source YouTube client with no Google account](https://github.com/biolend83/tubehaus)** — 21 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50379073) (2026-11-05)
 - **[Show HN: Codemap – one-page interactive map of any Go repository](https://github.com/peterretief/codemap)** — 43 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50366811) (2026-11-04)
-- **[Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli)** — 36 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50371090) (2026-11-04)
-- **[Show HN: GPUWorks – A 40 MB GPU cluster manager for vLLM/SGLang, no K8s needed](https://github.com/flitai-io/gpuworks)** — 25 points, 4 comments on [Show HN](https://news.ycombinator.com/item?id=50367630) (2026-11-04)
-- **[Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)** — 99 points, 27 comments on [Show HN](https://news.ycombinator.com/item?id=50358314) (2026-11-03)
-- **[Show HN: PyWolf3D, a wolfenstein3D clone written from scratch in Python](https://github.com/atifcodesalot/pyWolf3D)** — 28 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50338891) (2026-11-02)
-- **[Show HN: Open a 300k-row XLSX in the browser in ~300ms, no server](https://github.com/p10node/office-engine)** — 16 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50348361) (2026-11-03)
-- **[Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff)** — 296 points, 92 comments on [Show HN](https://news.ycombinator.com/item?id=50325253) (2026-11-01)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
