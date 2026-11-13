@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-12 15:40 UTC._
+_Last checked: 2026-11-13 14:59 UTC._
 
+- **[Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)** — 632 points, 211 comments on [Show HN](https://news.ycombinator.com/item?id=50470488) (2026-11-12)
+- **[Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech](https://github.com/KoljaB/RealtimeVAD)** — 28 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50474586) (2026-11-12)
 - **[Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)** — 271 points, 101 comments on [Show HN](https://news.ycombinator.com/item?id=50454625) (2026-11-11)
 - **[Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)** — 103 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=50453229) (2026-11-11)
 - **[Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)** — 82 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50454951) (2026-11-11)
@@ -43,8 +45,6 @@ _Last checked: 2026-11-12 15:40 UTC._
 - **[Show HN: CloneGuard – Scan a repo for credential-stealing tricks before it runs](https://github.com/tharun208/cloneguard)** — 31 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50397435) (2026-11-06)
 - **[Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker)** — 22 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50393235) (2026-11-06)
 - **[Show HN: Stroq – a local audit of what your coding agent did and why](https://github.com/AGGIB/Stroq)** — 89 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50380704) (2026-11-05)
-- **[Show HN: TubeHaus – an open-source YouTube client with no Google account](https://github.com/biolend83/tubehaus)** — 21 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50379073) (2026-11-05)
-- **[Show HN: Codemap – one-page interactive map of any Go repository](https://github.com/peterretief/codemap)** — 43 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50366811) (2026-11-04)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
