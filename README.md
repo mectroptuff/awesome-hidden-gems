@@ -18,8 +18,13 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-14 13:51 UTC._
+_Last checked: 2026-11-15 14:25 UTC._
 
+- **[Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)** — 253 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50497589) (2026-11-14)
+- **[Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)** — 104 points, 30 comments on [Show HN](https://news.ycombinator.com/item?id=50497147) (2026-11-14)
+- **[Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)** — 81 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=50497137) (2026-11-14)
+- **[Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)** — 64 points, 44 comments on [Show HN](https://news.ycombinator.com/item?id=50504072) (2026-11-15)
+- **[Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)** — 40 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50503930) (2026-11-15)
 - **[Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy](https://github.com/Christ10-8/reflota)** — 30 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50482455) (2026-11-13)
 - **[Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)** — 632 points, 211 comments on [Show HN](https://news.ycombinator.com/item?id=50470488) (2026-11-12)
 - **[Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech](https://github.com/KoljaB/RealtimeVAD)** — 28 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50474586) (2026-11-12)
@@ -40,11 +45,6 @@ _Last checked: 2026-11-14 13:51 UTC._
 - **[Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)** — 38 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50401844) (2026-11-07)
 - **[Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU](https://github.com/AmSach/maple)** — 20 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50410253) (2026-11-08)
 - **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)** — 257 points, 61 comments on [Show HN](https://news.ycombinator.com/item?id=50406292) (2026-11-07)
-- **[Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash)** — 70 points, 14 comments on [Show HN](https://news.ycombinator.com/item?id=50405263) (2026-11-07)
-- **[Show HN: An open source webbluetooth and NFC browser for iOS](https://github.com/hito-dev/wand-browser)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=50392219) (2026-11-06)
-- **[Show HN: Waymark – A workflow engine that compiles jobs instead of replaying](https://github.com/piercefreeman/waymark)** — 78 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50379221) (2026-11-05)
-- **[Show HN: CloneGuard – Scan a repo for credential-stealing tricks before it runs](https://github.com/tharun208/cloneguard)** — 31 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50397435) (2026-11-06)
-- **[Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents](https://github.com/zalando-incubator/agentic-identity-broker)** — 22 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50393235) (2026-11-06)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
