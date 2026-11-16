@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-15 14:25 UTC._
+_Last checked: 2026-11-16 16:37 UTC._
 
+- **[Show HN: Coral – Open-source gateway where agents write their own tools](https://github.com/withcoral/coral)** — 46 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50517803) (2026-11-16)
+- **[Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch)** — 45 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=50506940) (2026-11-15)
 - **[Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)** — 253 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50497589) (2026-11-14)
 - **[Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)** — 104 points, 30 comments on [Show HN](https://news.ycombinator.com/item?id=50497147) (2026-11-14)
 - **[Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)** — 81 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=50497137) (2026-11-14)
@@ -43,8 +45,6 @@ _Last checked: 2026-11-15 14:25 UTC._
 - **[Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)** — 33 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50413970) (2026-11-08)
 - **[Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)** — 94 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50421155) (2026-11-09)
 - **[Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)** — 38 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50401844) (2026-11-07)
-- **[Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU](https://github.com/AmSach/maple)** — 20 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50410253) (2026-11-08)
-- **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)** — 257 points, 61 comments on [Show HN](https://news.ycombinator.com/item?id=50406292) (2026-11-07)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
