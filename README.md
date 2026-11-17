@@ -18,8 +18,14 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-16 16:37 UTC._
+_Last checked: 2026-11-17 16:34 UTC._
 
+- **[Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)** — 64 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50525052) (2026-11-16)
+- **[Show HN: Open-source, real-time object tracking for live video feeds](https://github.com/aryamandarda/tamserve)** — 34 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50523377) (2026-11-16)
+- **[Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags](https://github.com/plabayo/venndb)** — 22 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50515603) (2026-11-16)
+- **[Show HN: OpenTodo – a self-hosted, local-first task manager in one Go binary](https://github.com/OpenTodoApp/OpenTodo)** — 20 points, 20 comments on [Show HN](https://news.ycombinator.com/item?id=50517352) (2026-11-16)
+- **[Show HN: Pulsar – cross-harness agent to agent communication and messaging](https://github.com/yocontra/pulsar)** — 19 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50526967) (2026-11-17)
+- **[Show HN: Agav – an open-source terminal agent designed to waste fewer tokens](https://github.com/prapaa-ai/agav)** — 15 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=50531644) (2026-11-17)
 - **[Show HN: Coral – Open-source gateway where agents write their own tools](https://github.com/withcoral/coral)** — 46 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50517803) (2026-11-16)
 - **[Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch)** — 45 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=50506940) (2026-11-15)
 - **[Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)** — 253 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50497589) (2026-11-14)
@@ -39,12 +45,6 @@ _Last checked: 2026-11-16 16:37 UTC._
 - **[Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)** — 409 points, 133 comments on [Show HN](https://news.ycombinator.com/item?id=50443812) (2026-11-10)
 - **[Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)** — 77 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=50449891) (2026-11-11)
 - **[Show HN: I have trained 15 blood glucose forecasting models on my own data](https://github.com/0xdeadf1sh/T1DMAI)** — 20 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50444761) (2026-11-10)
-- **[Show HN: Write GitHub Actions in any language: Loopt](https://github.com/preloopdev/loopt)** — 15 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50429031) (2026-11-09)
-- **[Show HN: A 15 MB self-hosted Netflix and Spotify for your media server](https://github.com/HolyArrs/HolyArrs)** — 102 points, 53 comments on [Show HN](https://news.ycombinator.com/item?id=50439000) (2026-11-10)
-- **[Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100](https://github.com/Dodaios/ste80-humanizer)** — 99 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=50429144) (2026-11-09)
-- **[Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals](https://github.com/sshah03/recalc)** — 33 points, 9 comments on [Show HN](https://news.ycombinator.com/item?id=50413970) (2026-11-08)
-- **[Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)** — 94 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50421155) (2026-11-09)
-- **[Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB](https://github.com/rkaehn/uniform)** — 38 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50401844) (2026-11-07)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
