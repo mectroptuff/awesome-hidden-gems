@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-17 16:34 UTC._
+_Last checked: 2026-11-18 16:03 UTC._
 
+- **[Show HN: Unref – A Python dead code finder built on Ruff's parser](https://github.com/Apakottur/unref)** — 53 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50517410) (2026-11-16)
+- **[Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)** — 52 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50533270) (2026-11-17)
+- **[Show HN: Deslop skill based on corpus-linguistics and psycholinguistics research](https://github.com/etodanik/deslop)** — 17 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50516995) (2026-11-16)
 - **[Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)** — 64 points, 34 comments on [Show HN](https://news.ycombinator.com/item?id=50525052) (2026-11-16)
 - **[Show HN: Open-source, real-time object tracking for live video feeds](https://github.com/aryamandarda/tamserve)** — 34 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50523377) (2026-11-16)
 - **[Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags](https://github.com/plabayo/venndb)** — 22 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50515603) (2026-11-16)
@@ -42,9 +45,6 @@ _Last checked: 2026-11-17 16:34 UTC._
 - **[Show HN: 3D to 2D, point clouds flattening (geometry images)](https://github.com/Neighborhood-Grid/flatpoints)** — 24 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=50427153) (2026-11-09)
 - **[Show HN: I created a library for correctly using SQLite in Go programs](https://github.com/cattlecloud/litesql)** — 22 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50453176) (2026-11-11)
 - **[Show HN: Aq – an attention queue TUI for Claude Code](https://github.com/nodo-labs-uk/attention-queue)** — 19 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50452257) (2026-11-11)
-- **[Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)** — 409 points, 133 comments on [Show HN](https://news.ycombinator.com/item?id=50443812) (2026-11-10)
-- **[Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)** — 77 points, 35 comments on [Show HN](https://news.ycombinator.com/item?id=50449891) (2026-11-11)
-- **[Show HN: I have trained 15 blood glucose forecasting models on my own data](https://github.com/0xdeadf1sh/T1DMAI)** — 20 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50444761) (2026-11-10)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
