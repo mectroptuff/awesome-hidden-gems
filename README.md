@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-18 16:03 UTC._
+_Last checked: 2026-11-19 16:10 UTC._
 
+- **[Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle](https://github.com/rxolve/zpup)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=50556534) (2026-11-19)
 - **[Show HN: Unref – A Python dead code finder built on Ruff's parser](https://github.com/Apakottur/unref)** — 53 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50517410) (2026-11-16)
 - **[Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)** — 52 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50533270) (2026-11-17)
 - **[Show HN: Deslop skill based on corpus-linguistics and psycholinguistics research](https://github.com/etodanik/deslop)** — 17 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50516995) (2026-11-16)
@@ -44,7 +45,6 @@ _Last checked: 2026-11-18 16:03 UTC._
 - **[Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)** — 82 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50454951) (2026-11-11)
 - **[Show HN: 3D to 2D, point clouds flattening (geometry images)](https://github.com/Neighborhood-Grid/flatpoints)** — 24 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=50427153) (2026-11-09)
 - **[Show HN: I created a library for correctly using SQLite in Go programs](https://github.com/cattlecloud/litesql)** — 22 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50453176) (2026-11-11)
-- **[Show HN: Aq – an attention queue TUI for Claude Code](https://github.com/nodo-labs-uk/attention-queue)** — 19 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50452257) (2026-11-11)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
