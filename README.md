@@ -18,7 +18,7 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-19 16:10 UTC._
+_Last checked: 2026-11-20 15:50 UTC._
 
 - **[Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle](https://github.com/rxolve/zpup)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=50556534) (2026-11-19)
 - **[Show HN: Unref – A Python dead code finder built on Ruff's parser](https://github.com/Apakottur/unref)** — 53 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50517410) (2026-11-16)
