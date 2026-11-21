@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-20 15:50 UTC._
+_Last checked: 2026-11-21 14:59 UTC._
 
+- **[Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)** — 109 points, 36 comments on [Show HN](https://news.ycombinator.com/item?id=50581403) (2026-11-20)
+- **[Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder](https://github.com/seb3773/lz0)** — 18 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50564684) (2026-11-19)
 - **[Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle](https://github.com/rxolve/zpup)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=50556534) (2026-11-19)
 - **[Show HN: Unref – A Python dead code finder built on Ruff's parser](https://github.com/Apakottur/unref)** — 53 points, 13 comments on [Show HN](https://news.ycombinator.com/item?id=50517410) (2026-11-16)
 - **[Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)** — 52 points, 7 comments on [Show HN](https://news.ycombinator.com/item?id=50533270) (2026-11-17)
@@ -43,8 +45,6 @@ _Last checked: 2026-11-20 15:50 UTC._
 - **[Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)** — 271 points, 101 comments on [Show HN](https://news.ycombinator.com/item?id=50454625) (2026-11-11)
 - **[Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)** — 103 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=50453229) (2026-11-11)
 - **[Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)** — 82 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50454951) (2026-11-11)
-- **[Show HN: 3D to 2D, point clouds flattening (geometry images)](https://github.com/Neighborhood-Grid/flatpoints)** — 24 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=50427153) (2026-11-09)
-- **[Show HN: I created a library for correctly using SQLite in Go programs](https://github.com/cattlecloud/litesql)** — 22 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50453176) (2026-11-11)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
