@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-21 14:59 UTC._
+_Last checked: 2026-11-22 14:58 UTC._
 
+- **[Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)** — 77 points, 48 comments on [Show HN](https://news.ycombinator.com/item?id=50596664) (2026-11-22)
+- **[Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code](https://github.com/natsu0529/agent-mcts)** — 15 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50589235) (2026-11-21)
 - **[Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)** — 109 points, 36 comments on [Show HN](https://news.ycombinator.com/item?id=50581403) (2026-11-20)
 - **[Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder](https://github.com/seb3773/lz0)** — 18 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50564684) (2026-11-19)
 - **[Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle](https://github.com/rxolve/zpup)** — 15 points, 0 comments on [Show HN](https://news.ycombinator.com/item?id=50556534) (2026-11-19)
@@ -43,8 +45,6 @@ _Last checked: 2026-11-21 14:59 UTC._
 - **[Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)** — 632 points, 211 comments on [Show HN](https://news.ycombinator.com/item?id=50470488) (2026-11-12)
 - **[Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech](https://github.com/KoljaB/RealtimeVAD)** — 28 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50474586) (2026-11-12)
 - **[Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)** — 271 points, 101 comments on [Show HN](https://news.ycombinator.com/item?id=50454625) (2026-11-11)
-- **[Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)** — 103 points, 19 comments on [Show HN](https://news.ycombinator.com/item?id=50453229) (2026-11-11)
-- **[Show HN: Klad, a paint app your coding agent can drive (source-available)](https://github.com/klad-app/klad)** — 82 points, 32 comments on [Show HN](https://news.ycombinator.com/item?id=50454951) (2026-11-11)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
