@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-22 14:58 UTC._
+_Last checked: 2026-11-23 18:51 UTC._
 
+- **[Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)** — 355 points, 86 comments on [Show HN](https://news.ycombinator.com/item?id=50599762) (2026-11-22)
+- **[Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites](https://github.com/ruairidhflint/news-blocklist)** — 20 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=50611026) (2026-11-23)
 - **[Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)** — 77 points, 48 comments on [Show HN](https://news.ycombinator.com/item?id=50596664) (2026-11-22)
 - **[Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code](https://github.com/natsu0529/agent-mcts)** — 15 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50589235) (2026-11-21)
 - **[Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)** — 109 points, 36 comments on [Show HN](https://news.ycombinator.com/item?id=50581403) (2026-11-20)
@@ -43,8 +45,6 @@ _Last checked: 2026-11-22 14:58 UTC._
 - **[Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)** — 40 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50503930) (2026-11-15)
 - **[Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy](https://github.com/Christ10-8/reflota)** — 30 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50482455) (2026-11-13)
 - **[Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)** — 632 points, 211 comments on [Show HN](https://news.ycombinator.com/item?id=50470488) (2026-11-12)
-- **[Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech](https://github.com/KoljaB/RealtimeVAD)** — 28 points, 5 comments on [Show HN](https://news.ycombinator.com/item?id=50474586) (2026-11-12)
-- **[Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)** — 271 points, 101 comments on [Show HN](https://news.ycombinator.com/item?id=50454625) (2026-11-11)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
