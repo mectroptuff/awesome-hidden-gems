@@ -18,8 +18,9 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-24 18:28 UTC._
+_Last checked: 2026-11-25 17:42 UTC._
 
+- **[Show HN: Brickie – Deploy sandboxes in your own AWS account](https://github.com/hatchet-dev/brickie)** — 31 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50629936) (2026-11-24)
 - **[Show HN: Type-C – variants, options, generics and pattern matching for C](https://github.com/stass/type-c)** — 48 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50602561) (2026-11-22)
 - **[Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)** — 355 points, 86 comments on [Show HN](https://news.ycombinator.com/item?id=50599762) (2026-11-22)
 - **[Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites](https://github.com/ruairidhflint/news-blocklist)** — 20 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=50611026) (2026-11-23)
@@ -44,7 +45,6 @@ _Last checked: 2026-11-24 18:28 UTC._
 - **[Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)** — 81 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=50497137) (2026-11-14)
 - **[Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)** — 64 points, 44 comments on [Show HN](https://news.ycombinator.com/item?id=50504072) (2026-11-15)
 - **[Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)** — 40 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50503930) (2026-11-15)
-- **[Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy](https://github.com/Christ10-8/reflota)** — 30 points, 3 comments on [Show HN](https://news.ycombinator.com/item?id=50482455) (2026-11-13)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
