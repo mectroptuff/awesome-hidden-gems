@@ -18,8 +18,10 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-25 17:42 UTC._
+_Last checked: 2026-11-26 17:25 UTC._
 
+- **[Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)](https://github.com/click6067-ship-it/token-tv)** — 54 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=50642300) (2026-11-25)
+- **[Show HN: Mergeon – A native desktop Git client written in Rust with GPUI](https://github.com/Spilveru/mergeon)** — 17 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50637887) (2026-11-25)
 - **[Show HN: Brickie – Deploy sandboxes in your own AWS account](https://github.com/hatchet-dev/brickie)** — 31 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50629936) (2026-11-24)
 - **[Show HN: Type-C – variants, options, generics and pattern matching for C](https://github.com/stass/type-c)** — 48 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50602561) (2026-11-22)
 - **[Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)** — 355 points, 86 comments on [Show HN](https://news.ycombinator.com/item?id=50599762) (2026-11-22)
@@ -43,8 +45,6 @@ _Last checked: 2026-11-25 17:42 UTC._
 - **[Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)** — 253 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50497589) (2026-11-14)
 - **[Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)** — 104 points, 30 comments on [Show HN](https://news.ycombinator.com/item?id=50497147) (2026-11-14)
 - **[Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)** — 81 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=50497137) (2026-11-14)
-- **[Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)** — 64 points, 44 comments on [Show HN](https://news.ycombinator.com/item?id=50504072) (2026-11-15)
-- **[Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)** — 40 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50503930) (2026-11-15)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
