@@ -18,8 +18,11 @@ A bot checks [Hacker News Show HN](https://news.ycombinator.com/show) every day,
 _Refreshed automatically every day by [`scripts/update_feed.py`](scripts/update_feed.py) — see [`.github/workflows/auto-update.yml`](.github/workflows/auto-update.yml). Last run timestamp is inside the block below._
 
 <!-- AUTO-FEED:START -->
-_Last checked: 2026-11-26 17:25 UTC._
+_Last checked: 2026-11-27 17:04 UTC._
 
+- **[Show HN: Fuck_data_brokers.py](https://github.com/gary23w/f-ck_data_brokers)** — 242 points, 53 comments on [Show HN](https://news.ycombinator.com/item?id=50658191) (2026-11-26)
+- **[Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar](https://github.com/rxliuli/sim-drop)** — 54 points, 10 comments on [Show HN](https://news.ycombinator.com/item?id=50657070) (2026-11-26)
+- **[Show HN: Silent dictation for Claude Code via on-device lip reading](https://github.com/batanus/lip-dictation)** — 17 points, 2 comments on [Show HN](https://news.ycombinator.com/item?id=50655639) (2026-11-26)
 - **[Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage)](https://github.com/click6067-ship-it/token-tv)** — 54 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=50642300) (2026-11-25)
 - **[Show HN: Mergeon – A native desktop Git client written in Rust with GPUI](https://github.com/Spilveru/mergeon)** — 17 points, 1 comments on [Show HN](https://news.ycombinator.com/item?id=50637887) (2026-11-25)
 - **[Show HN: Brickie – Deploy sandboxes in your own AWS account](https://github.com/hatchet-dev/brickie)** — 31 points, 8 comments on [Show HN](https://news.ycombinator.com/item?id=50629936) (2026-11-24)
@@ -42,9 +45,6 @@ _Last checked: 2026-11-26 17:25 UTC._
 - **[Show HN: Agav – an open-source terminal agent designed to waste fewer tokens](https://github.com/prapaa-ai/agav)** — 15 points, 6 comments on [Show HN](https://news.ycombinator.com/item?id=50531644) (2026-11-17)
 - **[Show HN: Coral – Open-source gateway where agents write their own tools](https://github.com/withcoral/coral)** — 46 points, 21 comments on [Show HN](https://news.ycombinator.com/item?id=50517803) (2026-11-16)
 - **[Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch)** — 45 points, 16 comments on [Show HN](https://news.ycombinator.com/item?id=50506940) (2026-11-15)
-- **[Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)** — 253 points, 23 comments on [Show HN](https://news.ycombinator.com/item?id=50497589) (2026-11-14)
-- **[Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)** — 104 points, 30 comments on [Show HN](https://news.ycombinator.com/item?id=50497147) (2026-11-14)
-- **[Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)** — 81 points, 26 comments on [Show HN](https://news.ycombinator.com/item?id=50497137) (2026-11-14)
 <!-- AUTO-FEED:END -->
 
 ## CLI & Terminal
